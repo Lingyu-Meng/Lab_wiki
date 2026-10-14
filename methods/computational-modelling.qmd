@@ -1,25 +1,28 @@
+---
+bibliography: references.bib
+---
+
 # Computational modelling
 
 This page can collect the lab's modelling approaches, code practices, and learning resources. A good modelling record explains the question, assumptions, implementation, and checks well enough that another lab member can understand and reproduce the work.
 
 ## Suggested workflow
 
-1. State the research question and why a model is appropriate.
-2. Define the model assumptions and parameters before interpreting results.
-3. Keep code, configuration, and analysis notes organized and versioned.
-4. Test the implementation with simulated or known cases where possible.
-5. Record software versions, random seeds, and key decisions.
-6. Discuss model checking and interpretation with a knowledgeable collaborator.
+1.  State the research question and why a model is appropriate.
+2.  Define the model assumptions and parameters before interpreting results.
+3.  Keep code, configuration, and analysis notes organized and versioned.
+4.  Test the implementation with simulated or known cases where possible.
+5.  Record software versions, random seeds, and key decisions.
+6.  Discuss model checking and interpretation with a knowledgeable collaborator.
 
 ## Lab resources to add
 
-- Recommended introductory readings: **[to add]**
-- Shared code repositories and access instructions: **[to confirm]**
-- Preferred languages, packages, and computing resources: **[to confirm]**
-- Modelling contact or reading group: **[to confirm]**
+- Recommended introductory readings: @wilson2019
+- Shared code repositories and access instructions: **\[to confirm\]**
+- Preferred languages, packages, and computing resources: **\[to confirm\]**
+- Modelling contact or reading group: **\[to confirm\]**
 
 Do not place credentials, participant-level data, or restricted code in this shared folder. Use the lab's approved storage and version-control practices.
 
-**Reviewed by:** [method lead]  
-**Last checked:** [YYYY-MM-DD]
-
+**Reviewed by:** \[Lingyu Meng\]\
+**Last checked:** \[YYYY-MM-DD\]
