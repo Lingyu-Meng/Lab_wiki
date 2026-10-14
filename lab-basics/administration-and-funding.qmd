@@ -1,0 +1,31 @@
+# Administration and funding
+
+This page should help lab members find the right office and current instructions. Administrative rules and funder calls change, so this wiki should point to official sources rather than reproduce details that may go stale.
+
+## Administrative procedures
+
+Add confirmed links and contacts for:
+
+- travel approval and reimbursement;
+- purchasing and expense claims;
+- employment, leave, and student administration;
+- room, equipment, and building access;
+- ethics and research governance.
+
+| Process | Official instructions | Contact / owner | Last checked |
+|---|---|---|---|
+| Travel and reimbursement | [link] | [role] | [date] |
+| Purchase request | [link] | [role] | [date] |
+| Leave or absence | [link] | [role] | [date] |
+
+## Grants and conference support
+
+The lab may be able to advise on grant or conference support, including opportunities associated with FNRS. Eligibility, deadlines, and allowable expenses depend on the scheme and can change. Check the current funder and institutional pages, and speak with the lab administrator or supervisor before making commitments.
+
+- Current FNRS opportunities and rules: **[add official link]**
+- Institutional research support contact: **[to confirm]**
+- Internal lab guidance on conference budgets: **[to add after confirmation]**
+
+**Page owner:** [role]  
+**Last checked:** [YYYY-MM-DD]
+

@@ -1,0 +1,26 @@
+# People and communication
+
+Good communication makes shared work easier. Agree with your supervisor and collaborators on the channel and response time that fit each kind of question; urgent safety or participant concerns should follow the lab's formal escalation route.
+
+## Who to contact
+
+| Topic | First contact |
+|---|---|
+| Research direction and priorities | [supervisor / project lead] |
+| Equipment or room access | [equipment or facility contact] |
+| Participant scheduling | [coordinator / project contact] |
+| Data storage and access | [data steward / IT contact] |
+| Purchasing and reimbursements | [administrator] |
+| Safety, ethics, or adverse events | [official institutional contact and procedure] |
+
+Replace these roles with the lab's agreed contacts and include an approved shared address where possible. Do not put personal phone numbers here without consent.
+
+## Shared work habits
+
+- Put decisions, owners, and deadlines in a place collaborators can find.
+- Tell collaborators when a plan or timeline changes.
+- Ask early when you are blocked or unsure about a procedure.
+- Respect confidentiality and use approved channels for sensitive information.
+
+**Last checked:** [YYYY-MM-DD]
+

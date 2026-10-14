@@ -1,0 +1,4 @@
+# References {.unnumbered}
+
+Add sources cited across the wiki to `references.bib` using BibTeX format. Prefer current official university, facility, ethics, and funder pages for procedures that can change.
+

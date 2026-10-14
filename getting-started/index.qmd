@@ -1,0 +1,15 @@
+# Getting started
+
+Welcome to **[lab name]**. This section is for new PhD and master's students, interns, research assistants, and visiting colleagues. It is designed to complement the formal university and lab onboarding you receive.
+
+Start with [your first weeks](first-weeks.qmd), then use [living and settling in](living-and-settling-in.qmd) for practical local information. Add lab-specific details only after confirming them with the relevant contact.
+
+## Before your first day
+
+- Confirm your start date, work location, supervisor, and first-day contact.
+- Ask which accounts, building access, safety training, or paperwork must be arranged in advance.
+- Check what equipment or software you need and whether the lab provides it.
+
+**Local contact:** [name or role]  
+**Last checked:** [YYYY-MM-DD]
+

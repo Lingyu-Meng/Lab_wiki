@@ -1,0 +1,23 @@
+# Pharmacology
+
+Use this page to organize the lab's learning resources and approved procedures related to pharmacology. Do not use this starter text as dosing, prescribing, handling, or safety guidance. Those details belong in current, approved protocols and official institutional procedures.
+
+## Suggested topics
+
+- Training and competency requirements
+- Ethics and regulatory approvals
+- Storage, handling, and documentation
+- Participant information and monitoring
+- Adverse-event escalation and reporting
+- Data recording and quality checks
+
+## Lab-specific information to add
+
+- Approved protocol location: **[restricted/approved location link]**
+- Safety and regulatory contact: **[to confirm]**
+- Training requirements: **[official link]**
+- Method lead: **[to confirm]**
+
+**Reviewed by:** [method lead]  
+**Last checked:** [YYYY-MM-DD]
+

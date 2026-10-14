@@ -1,0 +1,55 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Lab Wiki"
+  subtitle: "A practical handbook for lab members"
+  author: "[Lab name]"
+  date: last-modified
+  language: en
+  search: true
+  page-navigation: true
+  sidebar:
+    style: docked
+    collapse-level: 2
+  chapters:
+    - index.qmd
+    - part: "Getting started"
+      chapters:
+        - getting-started/index.qmd
+        - getting-started/first-weeks.qmd
+        - getting-started/living-and-settling-in.qmd
+    - part: "Lab basics and reference"
+      chapters:
+        - lab-basics/index.qmd
+        - lab-basics/people-and-communication.qmd
+        - lab-basics/meetings.qmd
+        - lab-basics/administration-and-funding.qmd
+        - lab-basics/conferences-and-journals.qmd
+    - part: "Methods handbook"
+      chapters:
+        - methods/index.qmd
+        - methods/online-experiments.qmd
+        - methods/in-lab-experiments.qmd
+        - methods/fmri.qmd
+        - methods/pharmacology.qmd
+        - methods/computational-modelling.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    anchor-sections: true
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+
+execute:
+  freeze: auto
+

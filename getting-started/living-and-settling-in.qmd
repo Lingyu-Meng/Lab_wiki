@@ -1,0 +1,27 @@
+# Living and settling in
+
+This page is a starting point for practical questions about arriving in **[city / region]**. Keep advice current, distinguish personal tips from official requirements, and link to authoritative sources for transport, housing, registration, and healthcare.
+
+## Accommodation
+
+Begin looking early and confirm the terms of any rental agreement before paying a deposit. Ask the university's international or student services whether it offers housing guidance or verified listings.
+
+- University housing information: **[add official link]**
+- Short-term accommodation suggestions from lab members: **[add, with date checked]**
+- Local tenant advice: **[add official or reputable link]**
+
+## Transport
+
+Check the local public transport operator's current routes, fares, and passes. Ask lab members which routes work well for commuting, but verify timetables and ticket rules directly with the operator.
+
+- Public transport operator: **[add official link]**
+- Getting to the lab: **[add address and route guidance]**
+- Bicycle or accessibility information: **[add current local details]**
+
+## Arrival checklist
+
+Depending on your situation, you may need to arrange local registration, health coverage, a bank account, a phone plan, and university or employment paperwork. Requirements vary by nationality and status; use official government and university guidance and contact the appropriate office when uncertain.
+
+**University contact for international arrivals:** [to confirm]  
+**Last checked:** [YYYY-MM-DD]
+

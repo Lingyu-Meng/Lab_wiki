@@ -1,0 +1,10 @@
+# Methods handbook
+
+This handbook is for learning and sharing practical methods used by the lab. Each page should explain when a method is useful, what preparation it requires, how to learn it safely, and where the authoritative protocol lives.
+
+The current pages are topic placeholders with starter prompts. Have the relevant method lead review technical details before treating any page as an approved protocol. Formal safety, ethics, equipment, and facility procedures always take precedence.
+
+## Contributing a method page
+
+Include the method's purpose, prerequisites, training contact, approved protocol link, common troubleshooting tips, and date of review. Avoid copying restricted manuals or including identifiable participant data.
+

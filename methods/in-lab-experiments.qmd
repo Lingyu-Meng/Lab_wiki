@@ -1,0 +1,22 @@
+# In-lab experiments
+
+In-lab studies often involve shared rooms, equipment, and participant-facing procedures. Coordinate bookings and training before running a session, and use the current ethics-approved protocol for all participant interactions.
+
+## General preparation
+
+1. Confirm the session is covered by the current ethics approval and protocol.
+2. Check room and equipment bookings, setup, and calibration requirements.
+3. Prepare consent materials and participant instructions from approved versions.
+4. Confirm how data should be recorded, transferred, and stored securely.
+5. After the session, follow the approved close-down and incident-reporting procedures.
+
+## Lab-specific details to add
+
+- Room booking and access: **[to confirm]**
+- Equipment checklist: **[link to approved checklist]**
+- Participant scheduling contact: **[to confirm]**
+- Safety and incident procedure: **[official link]**
+
+**Reviewed by:** [method lead]  
+**Last checked:** [YYYY-MM-DD]
+

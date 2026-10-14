@@ -1,0 +1,12 @@
+# Quarto's rendered files and intermediate cache are generated in CI.
+/.quarto/
+/_book/
+*.knit.md
+*_files/
+
+# RStudio session state
+.Rhistory
+.RData
+.Rproj.user/
+
+**/*.quarto_ipynb

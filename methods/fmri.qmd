@@ -1,0 +1,24 @@
+# fMRI
+
+This page is a navigation point for the lab's fMRI resources. Scanner access, safety screening, acquisition, and data handling must follow the current rules of the imaging facility and the approved study protocol.
+
+## Suggested topics
+
+- Facility induction and scanner safety
+- Participant screening and preparation
+- Session planning and acquisition protocols
+- Quality assurance and common artefacts
+- Data transfer, organization, and preprocessing
+- Relevant analysis pipelines and recommended reading
+
+## Lab-specific information to add
+
+- Facility and booking page: **[official link]**
+- Safety training contact: **[to confirm]**
+- Approved acquisition protocols: **[link to controlled location]**
+- Data-handling and preprocessing guidance: **[to add]**
+- fMRI method lead: **[to confirm]**
+
+**Reviewed by:** [method lead]  
+**Last checked:** [YYYY-MM-DD]
+

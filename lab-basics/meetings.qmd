@@ -1,0 +1,23 @@
+# Meetings
+
+Meetings help the group coordinate research, share methods, and discuss work in progress. Confirm the current schedule with the lab coordinator or calendar; the details below are prompts for the lab to complete.
+
+## Regular meetings
+
+| Meeting | Purpose | Frequency / time | Organizer |
+|---|---|---|---|
+| Lab meeting | [updates, discussion, or journal club] | [to confirm] | [to confirm] |
+| Project meeting | [project-specific coordination] | [to confirm] | [to confirm] |
+| ERC meeting | [expand the local meaning and purpose of ERC] | [to confirm] | [to confirm] |
+
+## Preparing an update
+
+A useful short update usually covers what you planned, what you tried, what you learned, and what decision or help you need next. Share slides or notes in the agreed location before the meeting when requested.
+
+## Meeting notes
+
+Record decisions and action items in the lab's approved shared location. Do not include identifiable participant information or confidential material in notes accessible to the entire OneDrive folder.
+
+**Calendar or meeting notes location:** [to confirm]  
+**Last checked:** [YYYY-MM-DD]
+

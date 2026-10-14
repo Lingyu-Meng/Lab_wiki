@@ -1,0 +1,23 @@
+# Conferences and journals
+
+Use this page to share venues that are relevant to the lab's research and to help new members plan reading and conference submissions. This is a starting list, not an endorsement or a complete ranking.
+
+## Conferences
+
+| Conference | Research area | Typical timing / location | Notes |
+|---|---|---|---|
+| [Name] | [area] | [verify annually] | [abstract deadline, travel support link] |
+
+Add a link to the official conference page. Deadlines and locations change from year to year.
+
+## Journals and regular reading
+
+| Journal or source | Topics | Why it is useful | Link |
+|---|---|---|---|
+| [Name] | [topic] | [brief note] | [official link] |
+
+Suggestions can be discussed at lab meeting. Include a short reason for adding a venue and avoid treating journal metrics as a substitute for evaluating individual research.
+
+**Page owner:** [role]  
+**Last checked:** [YYYY-MM-DD]
+

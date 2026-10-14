@@ -1,0 +1,34 @@
+# Your first weeks
+
+Starting in a new lab involves learning the research, the people, and the practical routines. Use this page as a checklist and adapt it to your role; it is not a substitute for formal safety, ethics, or employment instructions.
+
+## Meet the people
+
+Arrange an introduction with your supervisor and immediate collaborators. Find out who can help with day-to-day questions about equipment, participant scheduling, data, computing, and administration. Add a current team directory or link here once the lab agrees where it should live.
+
+## Get set up
+
+Confirm the following with your supervisor or the designated administrator:
+
+- institutional account, email, calendar, and relevant mailing lists;
+- building access and any required safety or facility training;
+- approved storage and backup locations for research data;
+- access to lab software, equipment, and shared resources;
+- where protocols, templates, and current project documentation are kept.
+
+Do not move research data to personal cloud storage or devices unless the institution's rules explicitly allow it.
+
+## Learn how the lab works
+
+Ask your supervisor about meeting cadence, progress updates, feedback, authorship expectations, and how to raise a concern. Read the [meeting guidance](../lab-basics/meetings.qmd) and [communication guidance](../lab-basics/people-and-communication.qmd).
+
+## Make a first-month plan
+
+Agree on a short plan with your supervisor: what to read, which people to meet, any training to complete, and one manageable first task. Record relevant deadlines and review the plan together after a few weeks.
+
+## Local details to add
+
+- First-day meeting point: **\[to confirm\]**
+- Lab onboarding contact: **\[to confirm\]**
+- Required training links: **\[to confirm\]**
+- Recommended introductory readings: **\[to add\]**

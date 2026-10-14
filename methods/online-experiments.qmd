@@ -1,0 +1,22 @@
+# Online experiments
+
+Online studies can make it possible to recruit and test participants remotely, but require careful attention to participant experience, data quality, privacy, and technical compatibility.
+
+## Before building a study
+
+- Confirm ethics approval covers the platform, recruitment, and data collected.
+- Choose the institutionally approved survey or experiment platform.
+- Test the study on supported browsers and screen sizes.
+- Make consent, withdrawal, and contact information clear to participants.
+- Plan exclusion and quality checks before collecting data.
+
+## Lab-specific information to add
+
+- Approved platforms and access request process: **[to confirm]**
+- Recruitment and payment guidance: **[link to approved procedure]**
+- Recommended browser and device checks: **[to add]**
+- Method lead and training resources: **[to confirm]**
+
+**Reviewed by:** [method lead]  
+**Last checked:** [YYYY-MM-DD]
+
