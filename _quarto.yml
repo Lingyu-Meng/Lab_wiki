@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: _book
+  output-dir: public
 
 book:
   title: "Lab Wiki"
@@ -52,4 +52,3 @@ format:
 
 execute:
   freeze: auto
-
