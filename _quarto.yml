@@ -23,6 +23,7 @@ book:
     - part: "Lab basics and reference"
       chapters:
         - lab-basics/index.qmd
+        - lab-basics/lab-values.qmd
         - lab-basics/people-and-communication.qmd
         - lab-basics/meetings.qmd
         - lab-basics/administration-and-funding.qmd
