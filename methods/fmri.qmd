@@ -13,12 +13,11 @@ This page is a navigation point for the lab's fMRI resources. Scanner access, sa
 
 ## Lab-specific information to add
 
-- Facility and booking page: **[official link]**
-- Safety training contact: **[to confirm]**
-- Approved acquisition protocols: **[link to controlled location]**
-- Data-handling and preprocessing guidance: **[to add]**
-- fMRI method lead: **[to confirm]**
+- Facility and booking page: **\[official link\]**
+- Safety training contact: **\[to confirm\]**
+- Approved acquisition protocols: **\[link to controlled location\]**
+- Data-handling and preprocessing guidance: **\[to add\]**
+- fMRI method lead: **\[to confirm\]**
 
-**Reviewed by:** [method lead]  
-**Last checked:** [YYYY-MM-DD]
-
+**Reviewed by:** \[iraj\]\
+**Last checked:** \[YYYY-MM-DD\]
