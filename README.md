@@ -1,23 +1,23 @@
 # Lab Wiki
 
-This is a Markdown-first lab handbook built with [Quarto](https://quarto.org/) and published as a static site with GitLab Pages. Contributors can edit the `.qmd` chapter files directly in GitLab; they contain ordinary Markdown and require no R, Python, Quarto, or command-line tools on the contributor's computer. GitLab CI renders the complete book and publishes it whenever a change reaches the default branch.
+This is a Markdown-first lab handbook built with [Quarto](https://quarto.org/) and published as a static site on GitHub Pages. Contributors can edit the `.qmd` chapter files directly in GitHub; they contain ordinary Markdown and require no R, Python, or command-line tools. A GitHub Action rebuilds the site whenever a change is committed to `main`.
 
-## Edit a chapter in GitLab
+## Edit a chapter on GitHub
 
-1. Open the chapter file you want to change, for example `methods/fmri.qmd`.
-2. Select **Edit** and change the Markdown text.
-3. Commit directly to the default branch, or create a branch and merge request for review.
-4. After the change reaches the default branch, open **Build → Pipelines** to see the render and deployment. The site address is shown under **Deploy → Pages** after a successful deployment.
+1. Open the chapter file you want to edit, for example `methods/fmri.qmd`.
+2. Choose the pencil icon (**Edit this file**) and change the Markdown text.
+3. Commit your change to `main`, or open a pull request for review.
+4. After the change reaches `main`, GitHub Actions rebuilds and publishes the wiki automatically. Check the **Actions** tab if the published page does not update.
 
-You need permission to commit changes to the repository. Edit the source chapter; do not edit generated HTML.
+You need write access to this repository to commit changes. The generated website is not edited directly; edit the source chapter instead.
 
 ## Add a chapter
 
 1. Create a `.qmd` file in the relevant folder using ordinary Markdown.
-2. Add the file path to the `chapters:` list in `_quarto.yml`. That list controls the sidebar order.
-3. Commit the new file and configuration change. The CI pipeline rebuilds and publishes the book.
+2. Add its path to the `chapters:` list in `_quarto.yml`. That list controls the sidebar order.
+3. Commit the new file and configuration change. The automatic build publishes the updated book.
 
-For a normal content update, edit only the relevant chapter; no configuration change is needed.
+For a normal content update, edit only the relevant chapter; no change to `_quarto.yml` is needed.
 
 ## Repository layout
 
@@ -25,14 +25,20 @@ For a normal content update, edit only the relevant chapter; no configuration ch
 - `index.qmd` — welcome page.
 - `getting-started/`, `lab-basics/`, `methods/` — editable chapter sources.
 - `references.bib` — shared bibliography.
-- `.gitlab-ci.yml` — automatic Quarto render and GitLab Pages deployment.
-- `public/` — generated website output. The CI pipeline creates it; it is intentionally excluded from Git.
+- `.github/workflows/publish.yml` — automatic render and GitHub Pages deployment.
+- `_book/` — generated website output. It is created by the workflow and intentionally excluded from Git.
 
-## GitLab Pages setup
+## One-time GitHub Pages setup
 
-The repository must have GitLab Pages and a CI runner enabled. On GitLab Self-Managed, the GitLab administrator must enable the Pages service and configure its domain; project owners may also need to enable Pages under **Settings → General → Visibility, project features, permissions**. If the **Build → Pipelines** job does not start, ask the project or GitLab administrator whether CI runners and the Quarto container image are allowed.
+After uploading this repository to GitHub:
 
-The `pages` job in `.gitlab-ci.yml` runs on the default branch. It renders HTML into `public/` and publishes that directory. GitLab identifies the Pages site URL under **Deploy → Pages** after the first successful pipeline.
+1. In the repository, open **Settings → Pages**.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+3. Ensure Actions are enabled for the repository.
+
+The first successful workflow run publishes the site. Find its address under **Settings → Pages**. Later commits to `main` update it automatically. No contributor needs to install Quarto or run a build locally.
+
+The workflow currently watches the `main` branch. If the repository uses a different default branch, update the branch name in `.github/workflows/publish.yml`.
 
 ## Content conventions
 
