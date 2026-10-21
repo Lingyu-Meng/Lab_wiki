@@ -4,18 +4,29 @@ This is a Markdown-first lab handbook built with [Quarto](https://quarto.org/) a
 
 ## Edit a chapter on GitHub
 
-1. Open the chapter file you want to edit, for example `methods/fmri.qmd`.
-2. Choose the pencil icon (**Edit this file**) and change the Markdown text.
-3. Commit your change to `main`, or open a pull request for review.
-4. After the change reaches `main`, GitHub Actions rebuilds and publishes the wiki automatically. Check the **Actions** tab if the published page does not update.
+1.  Ask Lingyu to add you as a collaborator to the repository
+2.  Open the chapter file you want to edit, for example `methods/fmri.qmd`.
+3.  Choose the pencil icon (**Edit this file**) and change the Markdown text.
+4.  Commit your change to `main`, or open a pull request for review.
+5.  After the change reaches `main`, GitHub Actions rebuilds and publishes the wiki automatically. Check the **Actions** tab if the published page does not update.
 
 You need write access to this repository to commit changes. The generated website is not edited directly; edit the source chapter instead.
 
+## Edit a chapter locally
+
+For contributors who prefer to work locally, you need to install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Ask Lingyu to add you as a collaborator to the repository. Then clone the repository, edit the chapter files, and commit your changes.
+
+RStudio and GitHub Desktop are highly recommended for contributors who are not familiar with the command line. See [GitHub Desktop](https://desktop.github.com/) and [RStudio](https://posit.co/download/rstudio-desktop/) for installation instructions.
+
+If you are using GitHub Desktop, you should open the repository 'Lab_wiki' in GitHub Desktop, then click clone to your local machine. After that, you can edit the chapter files in your favourite text editor (RStudio), and commit and push your changes back to GitHub.
+
+Notice that if someone else has made changes to the repository since you last pulled, you may need to fetch the latest changes before you can push your own changes. GitHub Desktop will prompt you if this is necessary.
+
 ## Add a chapter
 
-1. Create a `.qmd` file in the relevant folder using ordinary Markdown.
-2. Add its path to the `chapters:` list in `_quarto.yml`. That list controls the sidebar order.
-3. Commit the new file and configuration change. The automatic build publishes the updated book.
+1.  Create a `.qmd` file in the relevant folder using ordinary Markdown.
+2.  Add its path to the `chapters:` list in `_quarto.yml`. That list controls the sidebar order.
+3.  Commit the new file and configuration change. The automatic build publishes the updated book.
 
 For a normal content update, edit only the relevant chapter; no change to `_quarto.yml` is needed.
 
@@ -32,9 +43,9 @@ For a normal content update, edit only the relevant chapter; no change to `_quar
 
 After uploading this repository to GitHub:
 
-1. In the repository, open **Settings → Pages**.
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-3. Ensure Actions are enabled for the repository.
+1.  In the repository, open **Settings → Pages**.
+2.  Under **Build and deployment**, set **Source** to **GitHub Actions**.
+3.  Ensure Actions are enabled for the repository.
 
 The first successful workflow run publishes the site. Find its address under **Settings → Pages**. Later commits to `main` update it automatically. No contributor needs to install Quarto or run a build locally.
 
