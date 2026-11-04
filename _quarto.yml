@@ -33,6 +33,7 @@ book:
     - part: "Methods handbook"
       chapters:
         - methods/index.qmd
+        - methods/before-data-collection.qmd
         - methods/online-experiments.qmd
         - methods/in-lab-experiments.qmd
         - methods/fmri.qmd

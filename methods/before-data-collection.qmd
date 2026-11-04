@@ -1,0 +1,42 @@
+---
+bibliography: references.bib
+---
+# Before data collection
+
+## Analysis plan
+
+Before starting to collect or analyse data, you want to have a plan of your analysis. Please use this format Plan for the [analysis.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Plan%20for%20the%20analysis.docx?d=w3bb7bad926644219866c8dc43c069536&csf=1&web=1&e=4nzCrb). Make sure to download it first, fill it in and then add it to the shared folder with your name.
+
+## Programming
+
+### R
+
+Here how to install R studio <https://rstudio-education.github.io/hopr/starting.html>
+
+Here some tutorials to use R <https://www.r-bloggers.com/>
+
+<https://bloggers.feedspot.com/r_programming_blogs/>
+
+<https://www.youtube.com/watch?v=_V8eKsto3Ug&ab_channel=freeCodeCamp.org>
+
+Each time you write a script make sure to explain in detail what aspect of the code is needed for. If relevant, create a ReadMe.doc in which you explain what the code does and add the ReadMe.doc to the shared folder.
+
+You may contact Catherine Culot et de Nathan Vaccaro for extra help! You may use chatgpt for extra help just make sure to **check the output!!!**
+
+If you are using tidy R, please use the following style guide: <https://style.tidyverse.org/>
+
+Those cheat sheets are also very useful: <https://www.rstudio.com/resources/cheatsheets/>
+
+### Python
+
+Writing scripts in Python. You can use this tutorial for more information on how to write codes in python [Python_LectureSlides.pdf](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EQtnjrUyzQJKq_KsEl5knv4BNhzbX-YQfHMllujwDCiaFw?e=1Zxr7b)
+
+### Troubleshooting
+
+Altough you can use LLM (like ChatGPT) to help you with troubleshooting, you should always check the output and make sure it is correct. Apart from that, [Stackoverflow](https://stackoverflow.com/questions) is a great resource to find solutions to your problems. You can also go to this [book](https://bookdown.org/guokai8/mastering-r-through-errors/docs/) [@guo].
+
+## Ethics
+
+If your project needs ethical approval, submit it through monpsy -\> Recherche & Doctorat -\> Ethique
+
+Discuss this with your supervisor first!

@@ -39,6 +39,6 @@ Add the presentation on OneDrive
 
 ## Learn how the lab works
 
-Read [before data collection](../methods/index.qmd) and read [methods handbook](../methods/index.qmd).
+Read [before data collection](../methods/before-data-collection.qmd) and read [methods handbook](../methods/index.qmd).
 
 **Last checked:** \[2026-11-04\]

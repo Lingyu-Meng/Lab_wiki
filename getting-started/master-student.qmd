@@ -67,7 +67,7 @@ After writing the TPM you will continue working on the research project by colle
 
 ## Learn how the lab works
 
-Read [before data collection](../methods/index.qmd) and read [online experiments](../methods/online-experiments.qmd) or [in-lab experiments](../methods/in-lab-experiments.qmd).
+Read [before data collection](../methods/before-data-collection.qmd) and read [online experiments](../methods/online-experiments.qmd) or [in-lab experiments](../methods/in-lab-experiments.qmd).
 
 ### Data Analysis
 
