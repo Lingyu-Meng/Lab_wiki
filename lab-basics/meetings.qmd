@@ -1,23 +1,24 @@
 # Meetings
 
-Meetings help the group coordinate research, share methods, and discuss work in progress. Confirm the current schedule with the lab coordinator or calendar; the details below are prompts for the lab to complete.
+Usually, those meetings will appear in lab calendar automatically.
 
-## Regular meetings
+## Mandatory meetings
 
-| Meeting | Purpose | Frequency / time | Organizer |
-|---|---|---|---|
-| Lab meeting | [updates, discussion, or journal club] | [to confirm] | [to confirm] |
-| Project meeting | [project-specific coordination] | [to confirm] | [to confirm] |
-| ERC meeting | [expand the local meaning and purpose of ERC] | [to confirm] | [to confirm] |
+| Meeting | Links | Frequency / time | Location |
+|------------------|------------------|------------------|------------------|
+| Lab meeting | [Teams](https://eur01.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fmeet%2F38647945278776%3Fp%3DmbmeoOUWLLIeegrDYQ&data=05%7C02%7Clingyu.meng%40ulb.be%7C7fbf04c0202d4140069108df30d37c28%7C30a5145e75bd4212bb028ff9c0ea4ae9%7C0%7C0%7C639283357654941145%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=Sey5GqxiZo9EMqYqnbAKnlfmTScJ93L2fK7k0189qKc%3D&reserved=0) | Every Wednesdays at 13:30 | Salle Questienne |
+| Connex Seminar | [CRCN website](https://crcn.ulb.ac.be/connex/) | Wednesdays at 12:15 | Salle Bertelson |
 
-## Preparing an update
+## Recommended meetings
 
-A useful short update usually covers what you planned, what you tried, what you learned, and what decision or help you need next. Share slides or notes in the agreed location before the meeting when requested.
+Chose one of the following:
 
-## Meeting notes
+| Meeting | Links | Frequency / time | Location |
+|------------------|------------------|------------------|------------------|
+| UCL Max Planck Computational Psychiatry Talks | Contact y.abir\@ucl.ac.uk | Thursdays at 15:00 CET | London |
+| UCL Brain meetings | [Website](https://www.fil.ion.ucl.ac.uk/events/) | Fridays at 16:15 CET | London |
+| London Judgment and Decision Making Seminar Series | [Website](https://www.ucl.ac.uk/brain-sciences/pals/division-psychology-and-language-sciences-events/london-judgment-and-decision-making-seminar-series) | Wednesdays at 18:15 CET | London |
+| Competence Centre on Behavioral Insights Seminar | [Website](https://knowledge4policy.ec.europa.eu/behavioural-insights/ccbi-seminar-series_en) | see website | Online |
 
-Record decisions and action items in the lab's approved shared location. Do not include identifiable participant information or confidential material in notes accessible to the entire OneDrive folder.
-
-**Calendar or meeting notes location:** [to confirm]  
-**Last checked:** [YYYY-MM-DD]
-
+**Calendar or meeting notes location:** \[to confirm\]\
+**Last checked:** \[2026-11-04\]
