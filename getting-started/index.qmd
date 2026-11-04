@@ -2,7 +2,7 @@
 
 Welcome to **The (UN)Adaptive Mind Lab**. This section is for new PhD and master's students, interns, research assistants, and visiting colleagues. We collected both formal and informal information to help you get started in the lab and ULB.
 
-You can find specific information for your role ([master's students](master's-students.qmd), [PhD students](phd-students.qmd), [postdoc](postdoc.qmd)), general information for research (see [lab basics](../lab-basics/index.qmd) and [methods](../methods/index.qmd)) and [living and settling in](living-and-settling-in.qmd) for practical local information.
+You can find specific information for your role ([master's students](master-student.qmd), [PhD students](phd-student.qmd), [postdoc](postdoc.qmd)), general information for research (see [lab basics](../lab-basics/index.qmd) and [methods](../methods/index.qmd)) and [living and settling in](living-and-settling-in.qmd) for practical local information.
 
 Our lab website is [here](https://sites.google.com/site/irenecogliatidezza/team).
 
