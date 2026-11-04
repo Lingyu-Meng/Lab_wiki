@@ -2,30 +2,60 @@
 
 This page should help lab members find the right office and current instructions. Administrative rules and funder calls change, so this wiki should point to official sources rather than reproduce details that may go stale.
 
+Usually, when you spend money on behalf of the lab, you will need to contact the research centre administrator (Angélique), who will help you with the administrative procedures, and cc Irene.
+
 ## Administrative procedures
 
-Add confirmed links and contacts for:
+When you need something from the ULB website, you have to select French, as the English version of the site is not containing all the information. If you are not fluent in French, use a browser that can translate pages automatically.
 
-- travel approval and reimbursement;
-- purchasing and expense claims;
-- employment, leave, and student administration;
-- room, equipment, and building access;
-- ethics and research governance.
+### Purchasing, Travel and General Information
 
-| Process | Official instructions | Contact / owner | Last checked |
-|---|---|---|---|
-| Travel and reimbursement | [link] | [role] | [date] |
-| Purchase request | [link] | [role] | [date] |
-| Leave or absence | [link] | [role] | [date] |
+- Purchases: Go to Finances, achats et comptabilité → [Achats et magasin généraux](https://portail.ulb.be/servlet/com.jsbsoft.jtf.core.SG?EXT=core&PROC=SAISIE_LISTE_SOUS_RUBRIQUES_FRONT&ACTION=LISTER&PROFONDEUR=0&RH=1530796966466&RF=1530796966466&RUBRIQUE=1530796966466).
+  - For items outside the catalogue, provide two alternatives for comparison.
+  - If choosing the more expensive option, justify why the cheapest option was not selected.
+- Travel bookings: Go to Finances, achats et comptabilité → Comptabilité → [Missions à l’étranger](https://portail.ulb.be/fr/finances-achats-et-comptabilite/comptabilite2/missions-a-l-etranger) → Réservation via agence.
+- Mission authorisation: Find the relevant form under Finances, achats et comptabilité → Comptabilité → [Missions à l’étranger](https://portail.ulb.be/fr/finances-achats-et-comptabilite/comptabilite2/missions-a-l-etranger).
+- Air travel restrictions:
+  - Check the [map](https://portail.ulb.be/fr/vie-sur-les-campus/acces-et-mobilite/politique-de-mobilite/des-deplacements-internationaux-plus-responsables-faq) (axe 2) under Vers la liste des villes vertes et oranges.
+  - The colour code indicates whether flying is prohibited, not recommended, or unrestricted.
+- ULB communications: Regularly check the university mailing lists to avoid missing useful opportunities and announcements.
+  - Intralettre and ReMind'R provide general university information.
+
+### ERC
+
+If your project is funded by the European Research Council (ERC), you may need to read the following information:
+
+#### Open Access
+
+The publication of research funded by the ERC must be made open access. However, for hybrid journals (i.e., journals that offer both subscription and open access publishing), the ERC does not cover the costs of open access publishing. You must make your accepted version of the manuscript available in an open access repository.
+
+#### Administrative and Financial Guidelines
+
+- Keep all receipts and payment records for audit purposes.
+- Purchases and reimbursements:
+  - Scholarship holders must follow the intranet purchasing procedure; **direct payments cannot be reimbursed. (Never pay by yourself)**
+  - Staff on a salary can request reimbursement.
+  - ULB does not cover VAT (TVA).
+- Timesheets (if you are paid by ERC): Submit timesheets to the Finance Department every month. (walter.manuel.romero.perez\@ulb.be)
+  - You need to (1) sent filled timesheets to the Finance Department. (2) print it out, sign it, and put it into Irene's office. (3) save a pdf version of it named as Oct_2026_Yourname.pdf and put it to the [one drive](https://universitelibrebruxelles-my.sharepoint.com/:f:/r/personal/irene_cogliati_dezza_ulb_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Firene%5Fcogliati%5Fdezza%5Fulb%5Fbe%2FDocuments%2FResearch%20Projects%2FResearch%20Projects%2FERC%2FTimeSheet&share=cgoKg%2D4Agk%2DsQaFWRfqJz%5FkCEgUCCJqTKwILlVwpOu3z3wuNlw) in the folder with your name.
+  - Relative to signatures, the dates should be the last business day of each month or during the first business days of next month. For example, for the month of October-2026, the signing date must be either 30 Oct 2026 or between 03 Nov and 06 Nov at the latest. The supervisor's date may be after or the same as the staff's, but it cannot be before the staff's date.
+- Participant payments:
+  - Use the ERC-approved payment form (available in Angélique’s office).
+  - For Prolific payments, retain all supporting documentation for audit purposes.
+- Travel and missions:
+  - Always complete the mission authorisation and travel plan.
+  - Keep all travel documents and tickets for the audit at the end of each month (30th).
 
 ## Grants and conference support
 
 The lab may be able to advise on grant or conference support, including opportunities associated with FNRS. Eligibility, deadlines, and allowable expenses depend on the scheme and can change. Check the current funder and institutional pages, and speak with the lab administrator or supervisor before making commitments.
 
-- Current FNRS opportunities and rules: **[add official link]**
-- Institutional research support contact: **[to confirm]**
-- Internal lab guidance on conference budgets: **[to add after confirmation]**
+### Funding for research projects
 
-**Page owner:** [role]  
-**Last checked:** [YYYY-MM-DD]
+- [Wallonia-Brussels International (WBI)](https://www.wbi.be/en/WBI-World-EN)
 
+### Funding for conferences or travel
+
+- [FNRS mobility](https://www.frs-fnrs.be/en/financements/mobilite-monde)
+
+**Last checked:** \[2026-11-04\]
