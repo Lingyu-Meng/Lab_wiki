@@ -21,7 +21,6 @@ book:
         - getting-started/master-student.qmd
         - getting-started/phd-student.qmd
         - getting-started/postdoc.qmd
-        - getting-started/first-weeks.qmd
         - getting-started/living-and-settling-in.qmd
     - part: "Lab basics and reference"
       chapters:

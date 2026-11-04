@@ -15,9 +15,7 @@
 
 ## Select the advisory committee
 
-At the end of each academic year (typically in September), you will present the research you’ve conducted over the year to your advisory committee. The committee will provide constructive feedback on your progress and issue a formal recommendation on whether you are ready to advance to the next year of the program.
-Please speak with your PI as early as possible to schedule this meeting. Be sure to include committee members with expertise relevant to your research area.
-At least two members of the advisory committee should be from the faculty.
+At the end of each academic year (typically in September), you will present the research you’ve conducted over the year to your advisory committee. The committee will provide constructive feedback on your progress and issue a formal recommendation on whether you are ready to advance to the next year of the program. Please speak with your PI as early as possible to schedule this meeting. Be sure to include committee members with expertise relevant to your research area. At least two members of the advisory committee should be from the faculty.
 
 ## Attend lab meetings and seminars
 
@@ -27,15 +25,11 @@ See the [meetings](../lab-basics/meetings.qmd) page for details on lab meetings 
 
 Write your story – before starting to work on your research project, you must know the problem you are trying to address, its importance, the research question, its novelty, and how you are planning to address the research question.
 
-Here, you can find more information on how to write your story.
-Please use this format. The StoryMasterProject.docx. Make sure to download it first, fill it in and then add it to the shared folder with your name on OneDrive.
+Here, you can find more information on how to write your story. Please use this format. The StoryMasterProject.docx. Make sure to download it first, fill it in and then add it to the shared folder with your name on OneDrive.
 
 Literature review – this is a key step in your research journey as you have to be sure that your research question is novel and what it is already known in the literature cannot already answer your research question. As soon as you have your problem, its importance and your research question, you can start the literature review.
 
-You can find here information on how to do a literature review (towards the end of the presentation)
-You can use the webpages below to widen the spectrum of published manuscripts studying your topic of interest
-https://www.connectedpapers.com/
- https://researchrabbitapp.com/
+You can find here information on how to do a literature review (towards the end of the presentation) You can use the webpages below to widen the spectrum of published manuscripts studying your topic of interest https://www.connectedpapers.com/ https://researchrabbitapp.com/
 
 Please use this format LitteratureReview.docx Make sure to download it first, fill it in and then add it to the shared folder with your name OneDrive.
 
@@ -43,5 +37,8 @@ Present to the lab your project and your experimental procedure to have comments
 
 Add the presentation on OneDrive
 
-**Last checked:** \[2026-11-04\]
+## Learn how the lab works
 
+Read [before data collection](../methods/index.qmd) and read [methods handbook](../methods/index.qmd).
+
+**Last checked:** \[2026-11-04\]

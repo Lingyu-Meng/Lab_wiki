@@ -10,12 +10,17 @@ In-lab studies often involve shared rooms, equipment, and participant-facing pro
 4. Confirm how data should be recorded, transferred, and stored securely.
 5. After the session, follow the approved close-down and incident-reporting procedures.
 
-## Lab-specific details to add
+## Set-up a SONA account
 
-- Room booking and access: **[to confirm]**
-- Equipment checklist: **[link to approved checklist]**
-- Participant scheduling contact: **[to confirm]**
-- Safety and incident procedure: **[official link]**
+Join GRP_SONA_researchers and ask to create an account.
+
+For help, contact "EBERLEN Julia" Julia.Eberlen\@ulb.be
+
+## Book an experimental room
+
+Join: [Lab reservation meetings \| GRP_We are CRCN \| Microsoft Teams](https://teams.microsoft.com/l/channel/19%3A9KcJFnfi1OU1VMk_l27fqJwJIOtDobz_n5JGKnQHpbY1%40thread.tacv2/Lab%20reservation%20meetings?groupId=d396be5e-df54-4801-be9e-f426a2d56b55&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true&allowXTenantAccess=true) and read all the relevant information in CRCNBooklet. You have to attend those meetings in order to book a room. Room requirements can be send by email to Alison.Mary\@ulb.be and Julia.Eberlen\@ulb.be up to the evening before the meeting (for more details, please check the meeting descriptions).
+
+To book a room: <https://crcn.mygrr.net/app.php?p=login>
 
 **Reviewed by:** [method lead]  
 **Last checked:** [YYYY-MM-DD]

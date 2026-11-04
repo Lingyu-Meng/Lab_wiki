@@ -67,37 +67,7 @@ After writing the TPM you will continue working on the research project by colle
 
 ## Learn how the lab works
 
-Ask your supervisor about meeting cadence, progress updates, feedback, authorship expectations, and how to raise a concern. Read the [meeting guidance](../lab-basics/meetings.qmd) and [communication guidance](../lab-basics/people-and-communication.qmd).
-
-## Before data collection
-
-Before starting to collect or analyze data, you want to have a plan of your analysis. Please use this format Plan for the [analysis.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Plan%20for%20the%20analysis.docx?d=w3bb7bad926644219866c8dc43c069536&csf=1&web=1&e=4nzCrb). Make sure to download it first, fill it in and then add it to the shared folder with your name.
-
-You can also have your R scripts already ready.
-
-### R
-
-Here how to install R studio <https://rstudio-education.github.io/hopr/starting.html>
-
-Here some tutorials to use R <https://www.r-bloggers.com/>
-
-<https://bloggers.feedspot.com/r_programming_blogs/>
-
-<https://www.youtube.com/watch?v=_V8eKsto3Ug&ab_channel=freeCodeCamp.org>
-
-Each time you write a script make sure to explain in detail what aspect of the code is needed for. If relevant, create a ReadMe.doc in which you explain what the code does and add the ReadMe.doc to the shared folder.
-
-You may contact Catherine Culot et de Nathan Vaccaro for extra help! You may use chatgpt for extra help just make sure to **check the output!!!**
-
-### Python
-
-Writing scripts in Python. You can use this tutorial for more information on how to write codes in python [Python_LectureSlides.pdf](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EQtnjrUyzQJKq_KsEl5knv4BNhzbX-YQfHMllujwDCiaFw?e=1Zxr7b)
-
-### Ethics
-
-If your project needs ethical approval, submit it through monpsy -\> Recherche & Doctorat -\> Ethique
-
-Discuss this with your supervisor first!
+Read [before data collection](../methods/index.qmd) and read [online experiments](../methods/online-experiments.qmd) or [in-lab experiments](../methods/in-lab-experiments.qmd).
 
 ### Data Analysis
 
@@ -110,32 +80,6 @@ More information will be given during the project’s meetings.
 - Create a ppt with all the results of your research and add it to the shared folder.
 - Make sure to explain how you computed each variable.
 - If figures are needed, explain what the X axis and Y axis are.
-
-## Data Collection
-
-### Open a gorilla account
-
-Create an account in gorilla <https://app.gorilla.sc/> and make sure you have access to the experimental task you will use.
-
-Here you can find all the information needed to understand how to use Gorilla <https://support.gorilla.sc/support/>
-
-### Set-up a SONA account
-
-Join GRP_SONA_researchers and ask to create an account.
-
-For help, contact "EBERLEN Julia" Julia.Eberlen\@ulb.be
-
-### Book an experimental room
-
-Join: [Lab reservation meetings \| GRP_We are CRCN \| Microsoft Teams](https://teams.microsoft.com/l/channel/19%3A9KcJFnfi1OU1VMk_l27fqJwJIOtDobz_n5JGKnQHpbY1%40thread.tacv2/Lab%20reservation%20meetings?groupId=d396be5e-df54-4801-be9e-f426a2d56b55&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true&allowXTenantAccess=true) and read all the relevant information in CRCNBooklet. You have to attend those meetings in order to book a room. Room requirements can be send by email to Alison.Mary\@ulb.be and Julia.Eberlen\@ulb.be up to the evening before the meeting (for more details, please check the meeting descriptions).
-
-To book a room: <https://crcn.mygrr.net/app.php?p=login>
-
-### Get familiar with prolific
-
-Please get familiar with the prolific platform <https://www.prolific.com/>.
-
-Here you can find some information about prolific and how to set up experiments <https://www.youtube.com/watch?v=JuSSVqEeLkE&ab_channel=BehavioralScienceExplained> <https://www.cognition.run/tutorial/prolific-online-platform>
 
 ## Writing the master’s dissertation
 

@@ -10,12 +10,17 @@ Online studies can make it possible to recruit and test participants remotely, b
 - Make consent, withdrawal, and contact information clear to participants.
 - Plan exclusion and quality checks before collecting data.
 
-## Lab-specific information to add
+## Open a gorilla account
 
-- Approved platforms and access request process: **[to confirm]**
-- Recruitment and payment guidance: **[link to approved procedure]**
-- Recommended browser and device checks: **[to add]**
-- Method lead and training resources: **[to confirm]**
+Create an account in gorilla <https://app.gorilla.sc/> and make sure you have access to the experimental task you will use.
+
+Here you can find all the information needed to understand how to use Gorilla <https://support.gorilla.sc/support/>
+
+## Get familiar with prolific
+
+Please get familiar with the prolific platform <https://www.prolific.com/>.
+
+Here you can find some information about prolific and how to set up experiments <https://www.youtube.com/watch?v=JuSSVqEeLkE&ab_channel=BehavioralScienceExplained> <https://www.cognition.run/tutorial/prolific-online-platform>
 
 **Reviewed by:** [method lead]  
 **Last checked:** [YYYY-MM-DD]
