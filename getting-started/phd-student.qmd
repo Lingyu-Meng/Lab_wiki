@@ -10,7 +10,7 @@
 
 ## Doctoral School
 
-- Information about the doctoral school in psychology can be found here <https://www.uclouvain.be/fr/facultes/psp/psyc> Open it with French and then translate it with Google Translate if needed. Open it with French and then translate it with Google Translate if needed. Open those links with English option will not work properly.
+- Information about the doctoral school in psychology can be found here <https://www.uclouvain.be/fr/facultes/psp/psyc>. Open it in French and use Google Translate if needed. Opening these links with the English option will not work properly.
 - 60 credits should be earned by the end of the fourth year of the PhD (these credits can be also earned with conference attendance, online course, etc.) Each year the advisory committee will gather to decide whether the PhD candidate can pass to the next year. The PhD candidate will make a presentation of the progress and of the future plans. Halfway through the PhD, the PhD candidate will go through an intermediate evaluation from the same advisory committee
 
 ## Select the advisory committee
@@ -40,5 +40,9 @@ Add the presentation on OneDrive
 ## Learn how the lab works
 
 Read [before data collection](../methods/before-data-collection.qmd) and read [methods handbook](../methods/index.qmd).
+
+## Conferences
+
+Read [conferences](../lab-basics/conferences.qmd) for information on attending and presenting at conferences.
 
 **Last checked:** \[2026-11-04\]
