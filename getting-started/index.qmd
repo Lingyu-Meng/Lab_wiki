@@ -1,15 +1,13 @@
-# Getting started
+# Getting started {.unnumbered}
 
-Welcome to **[lab name]**. This section is for new PhD and master's students, interns, research assistants, and visiting colleagues. It is designed to complement the formal university and lab onboarding you receive.
+Welcome to **The (UN)Adaptive Mind Lab**. This section is for new PhD and master's students, interns, research assistants, and visiting colleagues. We collected both formal and informal information to help you get started in the lab and ULB.
 
-Start with [your first weeks](first-weeks.qmd), then use [living and settling in](living-and-settling-in.qmd) for practical local information. Add lab-specific details only after confirming them with the relevant contact.
+You can find specific information for your role ([master's students](master's-students.qmd), [PhD students](phd-students.qmd), [postdoc](postdoc.qmd)), general information for research (see [lab basics](../lab-basics/index.qmd) and [methods](../methods/index.qmd)) and [living and settling in](living-and-settling-in.qmd) for practical local information.
 
-## Before your first day
+Our lab website is [here](https://sites.google.com/site/irenecogliatidezza/team).
 
-- Confirm your start date, work location, supervisor, and first-day contact.
-- Ask which accounts, building access, safety training, or paperwork must be arranged in advance.
-- Check what equipment or software you need and whether the lab provides it.
+## Before your first day {.unnumbered}
 
-**Local contact:** [name or role]  
-**Last checked:** [YYYY-MM-DD]
+Many materials are stored in the lab's One Drive. If you need something but you have not received your ULB email and One Drive access yet, please contact us to send you the relevant files.
 
+**Last checked:** \[2026-11-04\]
