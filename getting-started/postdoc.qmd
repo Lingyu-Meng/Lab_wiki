@@ -12,25 +12,8 @@
 
 See the [meetings](../lab-basics/meetings.qmd) page for details on lab meetings and seminars.
 
-## First months of the PhD
+## Learn how the lab works
 
-Write your story – before starting to work on your research project, you must know the problem you are trying to address, its importance, the research question, its novelty, and how you are planning to address the research question.
-
-Here, you can find more information on how to write your story.
-Please use this format. The StoryMasterProject.docx. Make sure to download it first, fill it in and then add it to the shared folder with your name on OneDrive.
-
-Literature review – this is a key step in your research journey as you have to be sure that your research question is novel and what it is already known in the literature cannot already answer your research question. As soon as you have your problem, its importance and your research question, you can start the literature review.
-
-You can find here information on how to do a literature review (towards the end of the presentation)
-You can use the webpages below to widen the spectrum of published manuscripts studying your topic of interest
-https://www.connectedpapers.com/
- https://researchrabbitapp.com/
-
-Please use this format LitteratureReview.docx Make sure to download it first, fill it in and then add it to the shared folder with your name OneDrive.
-
-Present to the lab your project and your experimental procedure to have comments on that before starting to work on the project
-
-Add the presentation on OneDrive
+Read [before data collection](../methods/index.qmd) and read [methods handbook](../methods/index.qmd).
 
 **Last checked:** \[2026-11-04\]
-
