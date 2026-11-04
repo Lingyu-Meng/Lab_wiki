@@ -1,0 +1,36 @@
+# Information for new PhD students
+
+## Things to do as soon as joining the lab
+
+- Ask the PI to create a shared folder with your name on OneDrive. You will organize this folder with subfolders for each project. Please clean, organize and update this folder every 3 or 4 months.
+- Make sure you have been added to the lab group on Teams and to related channels. Most of the communications about the lab will happen in there. Here the link to the group [General \| GRP\_(Un)Adaptive Mind Lab \| Microsoft Teams](https://teams.microsoft.com/l/team/19%3AQRte_-YIaPjQkf_05czHUw9zslsaVegL9Tq3QVIusLA1%40thread.tacv2/conversations?groupId=d4500ae9-4ea8-4a56-9db1-03b97081e053&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9)
+- Make sure to check both channels regularly and that notifications for each channel are ON
+- Join the CRCN group on Teams [General \| GRP_We are CRCN \| Microsoft Teams](https://teams.microsoft.com/l/team/19%3A8U2voTCSAb5Jtsf0s7th-lSl8OnwB8ix1624ALgWLvk1%40thread.tacv2/conversations?groupId=d396be5e-df54-4801-be9e-f426a2d56b55&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9)
+- Schedule the kick-off meeting with the PI. For that meeting, please use this complete this power point [kick-off meeting.pptx](https://universitelibrebruxelles-my.sharepoint.com/:p:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/kick-off%20meeting.pptx?d=we9c542b857794ae9bc3c60aa3e197f50&csf=1&web=1&e=BgXkWJ)
+
+## Attend lab meetings and seminars
+
+See the [meetings](../lab-basics/meetings.qmd) page for details on lab meetings and seminars.
+
+## First months of the PhD
+
+Write your story – before starting to work on your research project, you must know the problem you are trying to address, its importance, the research question, its novelty, and how you are planning to address the research question.
+
+Here, you can find more information on how to write your story.
+Please use this format. The StoryMasterProject.docx. Make sure to download it first, fill it in and then add it to the shared folder with your name on OneDrive.
+
+Literature review – this is a key step in your research journey as you have to be sure that your research question is novel and what it is already known in the literature cannot already answer your research question. As soon as you have your problem, its importance and your research question, you can start the literature review.
+
+You can find here information on how to do a literature review (towards the end of the presentation)
+You can use the webpages below to widen the spectrum of published manuscripts studying your topic of interest
+https://www.connectedpapers.com/
+ https://researchrabbitapp.com/
+
+Please use this format LitteratureReview.docx Make sure to download it first, fill it in and then add it to the shared folder with your name OneDrive.
+
+Present to the lab your project and your experimental procedure to have comments on that before starting to work on the project
+
+Add the presentation on OneDrive
+
+**Last checked:** \[2026-11-04\]
+

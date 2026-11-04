@@ -5,7 +5,7 @@ project:
 book:
   title: "Lab Wiki"
   subtitle: "A practical handbook for lab members"
-  author: "[Lab name]"
+  author: "The (UN)Adaptive Mind Lab"
   date: last-modified
   language: en
   search: true
@@ -18,6 +18,9 @@ book:
     - part: "Getting started"
       chapters:
         - getting-started/index.qmd
+        - getting-started/master-student.qmd
+        - getting-started/phd-student.qmd
+        - getting-started/postdoc.qmd
         - getting-started/first-weeks.qmd
         - getting-started/living-and-settling-in.qmd
     - part: "Lab basics and reference"

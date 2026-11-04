@@ -1,0 +1,182 @@
+# Information for new master students
+
+## Things to do as soon as joining the lab
+
+- Join the info session on the 8/12/2026 (2PM, Salle Questienne, 10th floor) to have more information about your specific project, work organization
+- Join this Teams channel [General](https://universitelibrebruxelles.sharepoint.com/:f:/r/sites/PSYACA/Documents%20partages/General?csf=1&web=1&e=57Au7c) to find all the information about the TPM seminar.
+- Join the Teams channel [Master_students General Channel](https://teams.microsoft.com/l/channel/19%3A51a983282d49475aa45264668e5ea0cc%40thread.tacv2/Master_students%20General%20Channel?groupId=d4500ae9-4ea8-4a56-9db1-03b97081e053&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true) All general communications about the master dissertation will happen there. Some master projects will also have their project channel.
+- Make sure to check both channels regularly and that notifications for each channel are ON
+- Create a folder with your name in the shared folder of your research project “e.g., Twittter experiment”. Ask the supervisor to add you to the general folder if this has not happened yet!
+- Send a formal request for the TPM trough MonPsy--\>Enseignement --\>TPM et mémoires
+- If you are doing your, master dissertation in pair with a buddy ('binome") sign the "convetion de TPM partagé" and send it to the supervisor (MonPsy--\>Enseignement--\>TPM et mémoires--\>Documents)
+
+### Meetings
+
+Otherwise specify, meetings take place in the supervisor's office or on Teams on **Tuesdays from 2PM to 4PM**.
+
+You can send emails about your project which will be answered on Tuesdays only.
+
+### Go to "séminaires d'accompagnement TPM et Mémoire"
+
+Les séminaires d’accompagnement au TPM débuteront ce jeudi 1ier octobre, et ceux consacrés au Mémoire le 13 octobre. Ils sont organisés par Caroline Dermaux et Laura Périchon. En complément, des ateliers d’écriture destinés aux étudiant·es de Master 1 et Master 2 sont proposés par Aurélie Bureau (ULB FLU). Vous trouverez en pièce jointe un document détaillant les objectifs, le calendrier et le déroulement de ces séminaires. Ces informations seront également communiquées aux étudiant·es. Pour rappel, ces séminaires ont un double objectif : offrir aux étudiant·es un accompagnement de base et alléger votre rôle de promoteur·rice. Ils viennent ainsi compléter votre travail de supervision, afin que celui-ci puisse se concentrer sur les savoirs et compétences plus spécifiques. N'hésitez pas à orienter les étudiant·es que vous supervisez vers ces séminaires, voire à en faire une partie intégrante du contrat tacite ou explicite que vous établirez avec eux·elles. N'hésitez pas à revenir vers moi pour toute information supplémentaire.
+
+[Lancement_des_séminaires_d'accompagnement_TPM_et_Mémoire](https://universitelibrebruxelles-my.sharepoint.com/:f:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Lancement_des_se%CC%81minaires_d%27accompagnement_TPM_et_Me%CC%81moire?d=w3883fab868ab4da4b4fd94e92968e0ea&csf=1&web=1&e=OaLkwv)
+
+## TPM
+
+### First months of TPM
+
+Write your story – before starting to work on your research project, you must know the problem you are trying to address, its importance, the research question, its novelty, and how you are planning to address the research question.
+
+[Here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EYBHVK4jXRRDgV_kjq18fKcBuEdr44IweuwS9dMub3zVcg?e=MZ65qH), you can find more information on how to write your story
+
+Please use this format. The [StoryMasterProject.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/cQrEggsrbkLfRqGv3pD0JCJxEgUCMfTpVa_rZvfn2VM_E7p3jg) **Make sure to download it first, fill it in and then add it to the shared folder on onedrive with your name.**
+
+Literature review – this is a key step in your research journey as you have to be sure that your research question is novel and what it is already known in the literature cannot already answer your research question. As soon as you have your problem, its importance and your research question, you can start the literature review.
+
+You can find [here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EUoe5X429chJpBdB49MvGQsBbc34B_GmaupfFieinipeBA?e=sAh7wh) information on how to do a literature review (towards the end of the presentation) You can use the webpages below to widen the spectrum of published manuscripts studying your topic of interest
+
+<https://www.connectedpapers.com/>
+
+<https://researchrabbitapp.com/>
+
+Please use this format [LitteratureReview.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/EYVzufrJivdCnCNIDscb3ZAB00cGdpnAh44Vz2H4zA4HTg?e=F1bCqO) Make sure to download it first, fill it in and then add it to the shared folder with your name.
+
+Do a power point presentation in which you provide details of the experimental procedure you are planning to use and add it to the shared folder on OneDrive
+
+### Presentation to the lab
+
+You will be asked to make a presentation of your story to one lab meeting of our lab. This year presentation will be on the 10th of February at 1 PM (Salle Questienne)
+
+For the presentation, please prepare a PowerPoint where, on each slide, you discuss one question of the story file (e.g., one slide for what the problem is, one for why it is important etc). You will just need to address the first question up to the "Why should we care about the research question". Each of you will have more or less 5 minutes (pairs will present together).
+
+Make sure to have a presentation that doesn't exceed 3 minutes to leave enough time for questions and comments.
+
+### Writing TPM
+
+(deadline in May or August – see faculty calendar)
+
+#### Guidelines
+
+- Create a file containing the final version of both the story file and the literature review file.
+- The methodology section in the story file should be described in sufficient details, as in a journal article, and should not exceed one page. You may add one figure if needed!
+- Compliance with the guidelines provided for both the story file and the literature review file will be taken into account in the evaluation.
+- Add the final version of the TPM to the shared folder.
+
+After writing the TPM you will continue working on the research project by collecting data, analyzing data etc.. This stage will vary depending on each project.
+
+## Learn how the lab works
+
+Ask your supervisor about meeting cadence, progress updates, feedback, authorship expectations, and how to raise a concern. Read the [meeting guidance](../lab-basics/meetings.qmd) and [communication guidance](../lab-basics/people-and-communication.qmd).
+
+## Before data collection
+
+Before starting to collect or analyze data, you want to have a plan of your analysis. Please use this format Plan for the [analysis.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Plan%20for%20the%20analysis.docx?d=w3bb7bad926644219866c8dc43c069536&csf=1&web=1&e=4nzCrb). Make sure to download it first, fill it in and then add it to the shared folder with your name.
+
+You can also have your R scripts already ready.
+
+### R
+
+Here how to install R studio <https://rstudio-education.github.io/hopr/starting.html>
+
+Here some tutorials to use R <https://www.r-bloggers.com/>
+
+<https://bloggers.feedspot.com/r_programming_blogs/>
+
+<https://www.youtube.com/watch?v=_V8eKsto3Ug&ab_channel=freeCodeCamp.org>
+
+Each time you write a script make sure to explain in detail what aspect of the code is needed for. If relevant, create a ReadMe.doc in which you explain what the code does and add the ReadMe.doc to the shared folder.
+
+You may contact Catherine Culot et de Nathan Vaccaro for extra help! You may use chatgpt for extra help just make sure to **check the output!!!**
+
+### Python
+
+Writing scripts in Python. You can use this tutorial for more information on how to write codes in python [Python_LectureSlides.pdf](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EQtnjrUyzQJKq_KsEl5knv4BNhzbX-YQfHMllujwDCiaFw?e=1Zxr7b)
+
+### Ethics
+
+If your project needs ethical approval, submit it through monpsy -\> Recherche & Doctorat -\> Ethique
+
+Discuss this with your supervisor first!
+
+### Data Analysis
+
+You can find here some info on how to run statistical analysis here [Analyze_Data.pptx](https://universitelibrebruxelles-my.sharepoint.com/:p:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Analyze_Data.pptx?d=wfd3e8a8844984ab1ade92b96c13bf2e7&csf=1&web=1&e=vwTe7i)
+
+More information will be given during the project’s meetings.
+
+### Results
+
+- Create a ppt with all the results of your research and add it to the shared folder.
+- Make sure to explain how you computed each variable.
+- If figures are needed, explain what the X axis and Y axis are.
+
+## Data Collection
+
+### Open a gorilla account
+
+Create an account in gorilla <https://app.gorilla.sc/> and make sure you have access to the experimental task you will use.
+
+Here you can find all the information needed to understand how to use Gorilla <https://support.gorilla.sc/support/>
+
+### Set-up a SONA account
+
+Join GRP_SONA_researchers and ask to create an account.
+
+For help, contact "EBERLEN Julia" Julia.Eberlen\@ulb.be
+
+### Book an experimental room
+
+Join: [Lab reservation meetings \| GRP_We are CRCN \| Microsoft Teams](https://teams.microsoft.com/l/channel/19%3A9KcJFnfi1OU1VMk_l27fqJwJIOtDobz_n5JGKnQHpbY1%40thread.tacv2/Lab%20reservation%20meetings?groupId=d396be5e-df54-4801-be9e-f426a2d56b55&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true&allowXTenantAccess=true) and read all the relevant information in CRCNBooklet. You have to attend those meetings in order to book a room. Room requirements can be send by email to Alison.Mary\@ulb.be and Julia.Eberlen\@ulb.be up to the evening before the meeting (for more details, please check the meeting descriptions).
+
+To book a room: <https://crcn.mygrr.net/app.php?p=login>
+
+### Get familiar with prolific
+
+Please get familiar with the prolific platform <https://www.prolific.com/>.
+
+Here you can find some information about prolific and how to set up experiments <https://www.youtube.com/watch?v=JuSSVqEeLkE&ab_channel=BehavioralScienceExplained> <https://www.cognition.run/tutorial/prolific-online-platform>
+
+## Writing the master’s dissertation
+
+(deadline in May or August of the second year)
+
+### Tips, guidelines
+
+Use the "story" to build the introduction. The first page of the introduction should contain what the problem is, why it is important, and your research question. On this [file](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EYBHVK4jXRRDgV_kjq18fKcBuEdr44IweuwS9dMub3zVcg?e=MZ65qH) you can find some information on how to write this first page (first paragraph of a standard introduction)
+
+Next, you will go over the literature and use it to tell us what is known about your research topic and experimental question and what is instead unexplored, and therefore worth exploring in your research. You can organize this part with different subheadings if necessary. Try to mention all the relevant literature. If needed use, the literature review format to help you structuring this part [LitteratureReview.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/EYVzufrJivdCnCNIDscb3ZAB00cGdpnAh44Vz2H4zA4HTg?e=F1bCqO) (Make sure to download it first, fill it in and then add it to the shared folder with your name) \[6-10 pages\]
+
+Then in the last page of the introduction, you can come back to the research question and tell us in a few words how you are planning to address it (what task? what experimental procedure?). You can also add here the implications of the results of your research.
+
+For the methods, please use the structure of standard scientific papers (participants, behavioral task, questionnaires, etc, and also include the analysis section in which you describe each variable, and each analysis type you are planning to use). You can find more information on how to write the method section here <https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EWVOSsdELNVMpMxpoM90HP8B4qwS0KwGAB7Kg6Ysq7o-DQ?e=XUpCbd> Make sure to justify your sample size. If you didn’t run a power analysis, please make sure to specify that your study was only a pilot study or your analysis was only exploratory
+
+An example of intro and method can be found [here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EWES8lfl0MVJthWtVq2zO0sBbPcmiCpvUKXP7rebivLG_A?e=pOhGa6).
+
+Next, include the results and the discussion sessions. More information on how to write these sections can be found [here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EWVOSsdELNVMpMxpoM90HP8B4qwS0KwGAB7Kg6Ysq7o-DQ?e=XUpCbd)
+
+You also need to include an abstract. More info on how to write an abstract can be found here [Write Intro and Do Litterature review](https://universitelibrebruxelles-my.sharepoint.com/:b:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Write%20Intro%20and%20Do%20Litterature%20review.pdf?csf=1&web=1&e=gNCShB)
+
+You can see these master's theses to get some idea [HÖLSCHER_Inès_000606384_M-PSYCC_202526_s1_thesis_work_f1_v1.pdf](https://universitelibrebruxelles-my.sharepoint.com/:b:/r/personal/irene_cogliati_dezza_ulb_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Firene%5Fcogliati%5Fdezza%5Fulb%5Fbe%2FDocuments%2FMaterial%20for%20students%2FHO%CC%88LSCHER%5FIne%CC%80s%5F000606384%5FM%2DPSYCC%5F202526%5Fs1%5Fthesis%5Fwork%5Ff1%5Fv1%2Epdf&parent=%2Fpersonal%2Firene%5Fcogliati%5Fdezza%5Fulb%5Fbe%2FDocuments%2FMaterial%20for%20students&share=cQoXgAV5mNI8RJxMtBaZhjIsEgUCWBUPFARkOQdCSLHkFjN79w) [COLSON_Marie_000549975_M-PSYCC_202526_s1_thesis_work_f1_v1.pdf](https://universitelibrebruxelles-my.sharepoint.com/:b:/r/personal/irene_cogliati_dezza_ulb_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Firene%5Fcogliati%5Fdezza%5Fulb%5Fbe%2FDocuments%2FMaterial%20for%20students%2FCOLSON%5FMarie%5F000549975%5FM%2DPSYCC%5F202526%5Fs1%5Fthesis%5Fwork%5Ff1%5Fv1%2Epdf&parent=%2Fpersonal%2Firene%5Fcogliati%5Fdezza%5Fulb%5Fbe%2FDocuments%2FMaterial%20for%20students&share=cQphvFNET6DgQJzkf9YMQ5R%2DEgUCXx1lILzUGcbMHIbrRya0ew)
+
+**Do not use AI (unless is for checking spelling or grammar mistakes). You will risk that you will not make it to the oral part of the evaluation. Last year, we did not accept a lot master's dissertation because of this.**
+
+### Language
+
+You can write in the language of your choice (either French or English)
+
+### Oral presentation for master's dissertation
+
+Prepare 15 minutes presentation
+
+[Here](https://universitelibrebruxelles-my.sharepoint.com/:b:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Poster%20and%20Oral%20presentations.pdf?csf=1&web=1&e=DhouUU) some tips on how to prepare oral presentations
+
+## Joining lab meetings
+
+Every year, two master's students in their second year will be given the opportunity to join lab meetings. During lab meetings, lab members will present their work or make a presentation of key papers in our field. For master's students, this is a valuable opportunity to deepen their research experience and receive additional support in developing and executing their research projects.
+
+Priority will be given to students who wish to pursue a career in academia by doing a PhD.
+
+If you are interested, you can contact the PI at irene.cogliati.dezza\@ulb.be
+
+**Last checked:** \[2026-11-04\]
