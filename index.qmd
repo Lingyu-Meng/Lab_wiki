@@ -1,8 +1,4 @@
----
-title: "Welcome to the lab wiki"
----
-
-# Welcome {.unnumbered}
+# Welcome to the lab wiki {.unnumbered}
 
 This wiki is a shared, practical reference for people working in **The (UN)Adaptive Mind Lab**. It brings together onboarding information, everyday lab procedures, and methods guidance in one place.
 
