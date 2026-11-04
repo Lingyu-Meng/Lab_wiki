@@ -1,8 +1,5 @@
 ---
 title: "Welcome to the lab wiki"
-format:
-  html:
-    number-offset: [1, 0]
 ---
 
 # Welcome {.unnumbered}
@@ -11,13 +8,13 @@ This wiki is a shared, practical reference for people working in **The (UN)Adapt
 
 The source is organized as small Markdown-based chapters. You can edit the relevant chapter directly on GitHub; the published site is rebuilt automatically when the change reaches the `main` branch.
 
-## How to use this wiki
+## How to use this wiki {.unnumbered}
 
 - Use the searchable contents in the sidebar to find a topic.
 - Treat time-sensitive or institution-specific details as items to verify before acting.
 - If something is missing or unclear, add a note to the relevant chapter or contact **Lingyu**.
 - Do not put passwords, personal data, confidential participant information, or restricted internal documents in this folder.
 
-## Contributing
+## Contributing {.unnumbered}
 
 Open the chapter you want to update in the GitHub repository, select **Edit this file**, and commit your Markdown changes or submit a pull request. GitHub Actions rebuilds the full book after changes reach `main`. See [README.md](README.md) for instructions on adding chapters and setting up the site. [Here](https://github.com/Lingyu-Meng/Lab_wiki) is the repository of this wiki.
