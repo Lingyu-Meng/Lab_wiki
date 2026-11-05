@@ -8,6 +8,14 @@ Usually, when you spend money on behalf of the lab, you will need to contact the
 
 When you need something from the ULB website, you have to select French, as the English version of the site is not containing all the information. If you are not fluent in French, use a browser that can translate pages automatically.
 
+### Commuting and Access
+
+If you are paid by the ULB (PhD or Postdoc), you usually can be reimbursed for commuting costs. You can find the relevant information [here](https://portail.ulb.be/en/campus-life/home-work-campus-commuting-expenses).
+
+If the FNRS employs you, you can find a lot of useful info [here](https://www.frs-fnrs.be/en/quick-links/regulations-documents-and-hr-information). Via [this link](https://www.frs-fnrs.be/docs/Reglement-et-documents/RH/Reglement-deplacements-domicile-lieu-de-travail.pdf), you can also find the document about how you can get reimbursed for your home-to-work travel.
+
+If you want to access the buildings D (our office) when it is closed (weekend and holidays), you need to request a badge. You can do so by sending an email to dispatching\@ulb.be from your ULB email address.
+
 ### Purchasing, Travel and General Information
 
 - Purchases: Go to Finances, achats et comptabilité → [Achats et magasin généraux](https://portail.ulb.be/servlet/com.jsbsoft.jtf.core.SG?EXT=core&PROC=SAISIE_LISTE_SOUS_RUBRIQUES_FRONT&ACTION=LISTER&PROFONDEUR=0&RH=1530796966466&RF=1530796966466&RUBRIQUE=1530796966466).
@@ -31,7 +39,7 @@ The publication of research funded by the ERC must be made open access. However,
 
 #### Administrative and Financial Guidelines
 
-- Keep all receipts and payment records for audit purposes.
+- Keep all receipts and payment records for audit purposes. Put it in the folder named [Finance](https://universitelibrebruxelles-my.sharepoint.com/shared?id=%2Fpersonal%2Firene%5Fcogliati%5Fdezza%5Fulb%5Fbe%2FDocuments%2FResearch%20Projects%2FResearch%20Projects%2FERC%2FFinance&listurl=%2Fpersonal%2Firene%5Fcogliati%5Fdezza%5Fulb%5Fbe%2FDocuments&viewid=e07eb818%2D692a%2D4d14%2Dbd42%2D3b3ad2fd5917&share=cgrhsyByA7SURZ5C51LqdK%2D0EgUCMu9bP1CkjjOMhpABMTMASg) in the one drive.
 - Purchases and reimbursements:
   - Scholarship holders must follow the intranet purchasing procedure; **direct payments cannot be reimbursed. (Never pay by yourself)**
   - Staff on a salary can request reimbursement.
