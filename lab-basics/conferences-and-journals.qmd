@@ -1,8 +1,6 @@
-# Conferences and journals
+# Conferences
 
-Use this page to share venues that are relevant to the lab's research and to help new members plan reading and conference submissions. This is a starting list, not an endorsement or a complete ranking.
-
-## Conferences
+Use this page to share venues that are relevant to the lab's research and to help new members plan conference submissions. This is a starting list, not an endorsement or a complete ranking.
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 | Conference                                                                                                                                                        | Typical timing / location                                                   | Notes                                                                                |
@@ -32,11 +30,5 @@ Use this page to share venues that are relevant to the lab's research and to hel
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 
 Deadlines and locations change from year to year.
-
-## Journals and regular reading
-
-| Journal or source | Topics    | Why it is useful | Link              |
-|-------------------|-----------|------------------|-------------------|
-| \[Name\]          | \[topic\] | \[brief note\]   | \[official link\] |
 
 **Last checked:** \[2026-11-04\]

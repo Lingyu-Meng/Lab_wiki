@@ -1,7 +1,7 @@
 ---
 bibliography: references.bib
 ---
-# Before data collection
+# Before Data Collection
 
 ## Analysis plan
 

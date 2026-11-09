@@ -1,4 +1,4 @@
-# Methods handbook {.unnumbered}
+# Methods Handbook {.unnumbered}
 
 This handbook is for learning and sharing practical methods used by the lab. Each page should explain when a method is useful, what preparation it requires, how to learn it safely, and where the authoritative protocol lives. The content is a mix of Irene's tutorials, lab members' experiences, and some external references. The goal is to make it easy for new (and forgetful) lab members to get up to speed and for experienced members to share their expertise.
 

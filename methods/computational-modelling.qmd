@@ -2,7 +2,7 @@
 bibliography: references.bib
 ---
 
-# Computational modelling
+# Computational Modelling
 
 This page can collect the lab's modelling approaches, code practices, and learning resources. A good modelling record explains the question, assumptions, implementation, and checks well enough that another lab member can understand and reproduce the work.
 

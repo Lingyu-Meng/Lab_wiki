@@ -1,6 +1,6 @@
-# Welcome to the lab wiki {.unnumbered}
+# Welcome to the Lab Wiki {.unnumbered}
 
-This wiki is a shared, practical reference for people working in **The (UN)Adaptive Mind Lab**. It brings together onboarding information, everyday lab procedures, and methods guidance in one place.
+This wiki is a shared, practical reference for people working in [**The (UN)Adaptive Mind Lab**](https://sites.google.com/site/irenecogliatidezza/team). It brings together onboarding information, everyday lab procedures, and methods guidance in one place.
 
 The source is organized as small Markdown-based chapters. You can edit the relevant chapter directly on GitHub; the published site is rebuilt automatically when the change reaches the `main` branch.
 
@@ -8,7 +8,7 @@ The source is organized as small Markdown-based chapters. You can edit the relev
 
 - Use the searchable contents in the sidebar to find a topic.
 - Treat time-sensitive or institution-specific details as items to verify before acting.
-- If something is missing or unclear, add a note to the relevant chapter or contact **Lingyu**.
+- If something is missing or unclear, add a note to the relevant chapter or contact **Lingyu** (lingyu.meng\@ulb.be).
 - Do not put passwords, personal data, confidential participant information, or restricted internal documents in this folder.
 
 ## Contributing {.unnumbered}

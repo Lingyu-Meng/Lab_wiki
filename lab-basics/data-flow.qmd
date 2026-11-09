@@ -1,0 +1,111 @@
+# Research Data and Project Organization
+
+A clear project structure helps lab members find the current protocol, understand where files belong, and hand work over to collaborators. Agree on the structure at the start of a project, document it in a `README.md`, and use it consistently. The examples below are a starting point; adapt them to the project’s data management plan (DMP), ethics approval, contracts, and storage requirements.
+
+## Project data flow
+
+Organize project materials around the work they support. A project commonly includes:
+
+1.  **Project overview and collaborators**: the project story, aims, collaborators, and contributions.
+2.  **Literature review**: references and PDFs used to develop the research question.
+3.  **Ethics and administration**: applications, approvals, consent materials, and the DMP.
+4.  **Study design**: protocol, task materials, questionnaires, code, and analysis plan.
+5.  **Data collection and processing**: raw data and documented derived datasets.
+6.  **Analysis and outputs**: analysis code, results, and material prepared for reports or papers.
+7.  **Archive**: a checked, documented copy of the completed project, retained under the applicable policy.
+
+These stages can overlap or repeat. Keep the folder names and README clear enough that a collaborator can tell which files are current and how to use them.
+
+## Example project structure
+
+``` text
+Project_Name/
+├── README.md
+├── 00_Project_Overview/
+│   ├── collaborators_and_contributions.xlsx
+│   └── The_Story/
+├── 01_Literature_Review/
+│   └── PDFs/
+├── 02_Ethics_and_Administration/
+│   ├── DMP/
+│   ├── ethics_application/
+│   └── consent_materials/       # restricted access where required
+├── 03_Study_Design/
+│   ├── README.md
+│   ├── code_and_scripts/
+│   ├── task_material/
+│   │   ├── questionnaires/
+│   │   └── sources_and_links/
+│   └── data_analysis_plan/
+├── 04_Data/
+│   ├── README.md
+│   ├── raw_data/
+│   │   ├── surveys/
+│   │   ├── videos/
+│   │   └── task_data/
+│   └── preprocessed_data/
+├── 05_Data_Analysis/
+│   ├── README.md
+│   ├── analysis_code/
+│   └── results/
+├── 06_Learning_Material/
+└── 07_Archive_Notes/
+```
+
+This is a template, not a requirement to create every folder. Add folders for project-specific material such as a thesis, internship report, or partner agreement. Keep records of collaborators and contributions in a project-level file; organize folders by project activity rather than by individual researcher where possible. Store consent forms, identifiers, and other sensitive files only in approved locations with access limited to people who need them.
+
+## Folder and file naming
+
+- Put broad categories near the top of the folder tree and specific material inside them. Group related files together and separate ongoing work from completed or archived work.
+- Name folders for the project activity or material they contain, not for an individual researcher. Use descriptive names and apply the same convention across the project.
+- Keep folder sizes manageable. The slides cite a recommendation to avoid more than about 21 items in one folder; treat this as a navigation rule of thumb, not a strict limit.
+- Choose names that make files easy to sort and search. Put important information first, keep names short, and use hyphens or underscores instead of spaces. Avoid special characters.
+- If chronological sorting matters, start the name with a date in `YYMMDD` format.
+- Use a consistent order for project details. For example: `YYMMDD_LiteratureReview_Project_Author.docx` or `YYMMDD_Title_Authors.pptx`.
+- Document conventions in the project README. Different file sets can use different patterns, as long as the README explains them.
+
+## What belongs in the project README
+
+At the project root, explain:
+
+- the project purpose and the contact person or responsible researcher;
+- what each folder contains and which files are authoritative;
+- file naming rules and any abbreviations;
+- how to run or use the scripts and task materials;
+- where the DMP and current protocol are kept;
+- which folders contain restricted data and who may access them;
+- the storage, backup, retention, and archive arrangements.
+
+Add a short README to complex folders such as `Study_Design/`, `Data/`, and `Data_Analysis/` when their contents need extra explanation.
+
+## Data management plan
+
+Create a DMP before collecting or generating research data, then update it when the project changes. It should record what data the project will use or generate, who is responsible, where the data and documentation will be stored, how they will be used and shared, and any ethical, legal, or contractual conditions. Discuss it with the supervisor or principal investigator and follow the applicable funder and ULB requirements. ULB recommends using its approved research-data infrastructure; do not assume that a personal cloud drive or a general team folder is suitable for research data.
+
+## Personal and sensitive data
+
+Personal data can identify someone directly or indirectly. This includes data collected for a new study and personal data reused from an earlier collection. Before collecting or reusing it, check the project’s information materials, ethics approval, DMP, and applicable ULB requirements. Collect only what the project needs, use approved storage and access controls, and follow the approved retention and deletion plan. Ask the supervisor or principal investigator, the relevant ethics committee, or the [ULB Data Protection Officer](https://www.ulb.be/en/being-a-researcher-at-ulb/ethics-committees) when the correct procedure is unclear.
+
+**Anonymized data** no longer allow a person to be identified, including by combining the data with other information. **Pseudonymized (coded) data** can still be linked back to a person using additional information, such as a key. Keep that key separately with stricter access controls. Pseudonymized data remain personal data under ULB guidance, so continue to protect them accordingly.
+
+The slides list consent forms and ethics documents as project materials. These can contain identifying information: store them according to the approved protocol and access rules, rather than automatically placing them beside analysis data.
+
+## Storage, backup, and archiving
+
+- Choose storage according to the data sensitivity and the project’s DMP. Use encryption or restricted-access storage when required by the data type, ethics approval, or institutional policy.
+- Keep encryption keys and passwords separate from the encrypted data. Use a secure method approved by ULB or the project’s IT support; do not put credentials in the project README or alongside the data.
+- Keep working files uncompressed when they need frequent access. Compress a backup or archive when it helps manage storage, while preserving the original folder structure and README.
+- Test backups by restoring files and checking that they open and have not been corrupted. Repeat the check periodically and when setting up a new backup method.
+- At project completion or publication, prepare a documented archive and move it to the approved archival storage. Before relying on a ZIP archive or deleting working copies, check that the archive opens and that the files are complete. Follow the project’s retention and deletion requirements.
+
+## Further guidance
+
+- [ULB Institutional Policy on Research Data Management](https://www.ulb.be/medias/fichier/ulb-rdm-policy_1629187645910-pdf?ID_FICHE=7415&INLINE=FALSE)
+- [ULB ethics committees and Data Protection Officer](https://www.ulb.be/en/being-a-researcher-at-ulb/ethics-committees)
+- [University of Michigan: Organize data](https://guides.lib.umich.edu/datamanagement/organize)
+- [KU Leuven: Track data and responsibilities](https://www.kuleuven.be/rdm/en/guidance/responsibilities/track-data)
+- [HKU: Keeping research data organized](https://blog-sc.hku.hk/keeping-research-data-organised-good-habits-from-the-start/)
+- The presentation also cites [York University’s organizing research data guide](https://subjectguides.york.ac.uk/rdm/organising), [HKU’s research data management guide](https://libguides.lib.hku.hk/rdm/organize), and [Caltech’s research data guide](https://authors.library.caltech.edu/records/mmnpf-cez11).
+
+**Reviewed by:** \[To be signed\]\
+**Last checked:** \[2026-11-09\]

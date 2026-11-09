@@ -22,13 +22,16 @@ book:
         - getting-started/phd-student.qmd
         - getting-started/postdoc.qmd
         - getting-started/living-and-settling-in.qmd
-    - part: "Lab basics and reference"
+    - part: "Lab basics"
       chapters:
         - lab-basics/index.qmd
         - lab-basics/lab-values.qmd
-        - lab-basics/people-and-communication.qmd
+        - lab-basics/open-science.qmd
+        - lab-basics/data-flow.qmd
+        - lab-basics/who-to-contact.qmd
         - lab-basics/meetings.qmd
-        - lab-basics/administration-and-funding.qmd
+        - lab-basics/administration.qmd
+        - lab-basics/funding.qmd
         - lab-basics/conferences-and-journals.qmd
     - part: "Methods handbook"
       chapters:

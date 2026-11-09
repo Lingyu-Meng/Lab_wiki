@@ -1,4 +1,4 @@
-# In-lab experiments
+# In-lab Experiments
 
 In-lab studies often involve shared rooms, equipment, and participant-facing procedures. Coordinate bookings and training before running a session, and use the current ethics-approved protocol for all participant interactions.
 

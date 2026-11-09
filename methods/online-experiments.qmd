@@ -1,4 +1,4 @@
-# Online experiments
+# Online Experiments
 
 Online studies can make it possible to recruit and test participants remotely, but require careful attention to participant experience, data quality, privacy, and technical compatibility.
 
