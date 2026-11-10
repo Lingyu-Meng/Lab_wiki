@@ -3,12 +3,12 @@
 ## Things to do as soon as joining the lab
 
 - Join the info session on the **8/12/2026 (2PM, Salle Questienne, 10th floor)** to have more information about your specific project, work organization
-- Here you can find more information about the TPM seminar [General](https://universitelibrebruxelles.sharepoint.com/:f:/r/sites/PSYACA/Documents%20partages/General?csf=1&web=1&e=57Au7c).
-- Join the Teams channel [Master_students General Channel](https://teams.microsoft.com/l/channel/19%3A51a983282d49475aa45264668e5ea0cc%40thread.tacv2/Master_students%20General%20Channel?groupId=d4500ae9-4ea8-4a56-9db1-03b97081e053&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true) All general communications about the master dissertation will happen there. Some master projects will also have their project channel.
-- Make sure to check both channels regularly and that notifications for each channel are ON
-- Create a folder with your name in the shared folder of your research project “e.g., Twittter experiment”. Ask the supervisor to add you to the general folder if this has not happened yet!
+- Join the Teams channel [Master_students General Channel](https://teams.microsoft.com/l/channel/19%3A51a983282d49475aa45264668e5ea0cc%40thread.tacv2/Master_students%20General%20Channel?groupId=d4500ae9-4ea8-4a56-9db1-03b97081e053&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true) All general communications about the master dissertation will happen there. Some master projects will also have their own project channel. Due to the enormous number of students, the supervisor will not be able to answer to all your questions. You can therefore use this chanel to ask questions to other students. Indeed, it is preferable that questions are first asked in the channel, if no good answers are obtained you can try to contact the supervisor.
+- Make sure to check the channels (whether the general one or the project one) regularly and that notifications for each channel are **ON**
+- Create a folder with your name in the shared folder of your research project “e.g., Twittter experiment”, under the folder "Collaborators". Ask the supervisor to add you to the general folder if this has not happened yet!
 - Send a formal request for the TPM trough MonPsy--\>Enseignement --\>TPM et mémoires
 - If you are doing your, master dissertation in pair with a buddy ('binome") sign the "convetion de TPM partagé" and send it to the supervisor (MonPsy--\>Enseignement--\>TPM et mémoires--\>Documents)
+- Here you can find more information about the TPM seminar [General](https://universitelibrebruxelles.sharepoint.com/:f:/r/sites/PSYACA/Documents%20partages/General?csf=1&web=1&e=57Au7c).
 
 ### Meetings
 
