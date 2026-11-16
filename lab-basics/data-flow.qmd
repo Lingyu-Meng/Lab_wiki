@@ -9,7 +9,7 @@ Organize project materials around the work they support. A project commonly incl
 1.  **Project overview and collaborators**: the project story, aims, collaborators, and contributions.
 2.  **Literature review**: references and PDFs used to develop the research question.
 3.  **Ethics and administration**: applications, approvals, consent materials, and the DMP.
-4.  **Study design**: protocol, task materials, questionnaires, code, and analysis plan.
+4.  **Study design**: protocol, task materials, questionnaires, code, and analysis plan. 
 5.  **Data collection and processing**: raw data and documented derived datasets.
 6.  **Analysis and outputs**: analysis code, results, and material prepared for reports or papers.
 7.  **Archive**: a checked, documented copy of the completed project, retained under the applicable policy.
