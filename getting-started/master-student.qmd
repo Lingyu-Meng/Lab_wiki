@@ -3,16 +3,19 @@
 ## Things to do as soon as joining the lab
 
 - Join the info session on the **8/12/2026 (2PM, Salle Questienne, 10th floor)** to have more information about your specific project, work organization
-- Join the Teams channel [Master_students General Channel](https://teams.microsoft.com/l/channel/19%3A51a983282d49475aa45264668e5ea0cc%40thread.tacv2/Master_students%20General%20Channel?groupId=d4500ae9-4ea8-4a56-9db1-03b97081e053&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true) All general communications about the master dissertation will happen there. Some master projects will also have their own project channel. Due to the enormous number of students, the supervisor will not be able to answer to all your questions. You can therefore use this chanel to ask questions to other students. Indeed, it is preferable that questions are first asked in the channel, if no good answers are obtained you can try to contact the supervisor.
+- Join the Teams channel [Master_students General Channel](https://teams.microsoft.com/l/channel/19%3A51a983282d49475aa45264668e5ea0cc%40thread.tacv2/Master_students%20General%20Channel?groupId=d4500ae9-4ea8-4a56-9db1-03b97081e053&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9&ngc=true) All general communications about the master dissertation will happen there. Some master projects will also have their own project channel. Due to the enormous number of students, the supervisor will not be able to answer to all your questions. You can therefore use this chanel to ask questions to other students. Indeed, it is preferable that questions are first asked in the channel, if no good answers are obtained you can try to contact the supervisor by email.
 - Make sure to check the channels (whether the general one or the project one) regularly and that notifications for each channel are **ON**
 - Create a folder with your name in the shared folder of your research project “e.g., Twittter experiment”, under the folder "Collaborators". Ask the supervisor to add you to the general folder if this has not happened yet!
 - Send a formal request for the TPM trough MonPsy--\>Enseignement --\>TPM et mémoires
-- If you are doing your, master dissertation in pair with a buddy ('binome") sign the "convetion de TPM partagé" and send it to the supervisor (MonPsy--\>Enseignement--\>TPM et mémoires--\>Documents)
+- If you are doing your master dissertation in pair with a buddy ('binome") sign the "convetion de TPM partagé" and send it to the supervisor (MonPsy--\>Enseignement--\>TPM et mémoires--\>Documents)
+- These steps should be repeated for the mémoires (at the beginning of the second year)
 - Go to "séminaires d'accompagnement TPM et Mémoire". Here you can find more information about the TPM seminar [General](https://universitelibrebruxelles.sharepoint.com/:f:/r/sites/PSYACA/Documents%20partages/General?csf=1&web=1&e=57Au7c) [Lancement_des_séminaires_d'accompagnement_TPM_et_Mémoire](https://universitelibrebruxelles-my.sharepoint.com/:f:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Lancement_des_se%CC%81minaires_d%27accompagnement_TPM_et_Me%CC%81moire?d=w3883fab868ab4da4b4fd94e92968e0ea&csf=1&web=1&e=OaLkwv).
 
 ### Supervision
 
-Otherwise specify, meetings take place in the supervisor's office or on Teams on **Tuesdays from 2PM to 4PM**. During the first year, students will receive information about the TPM during the info session only, and they will receive feedbacks about their experimental question during the lab meeting on February (see below). Except in rare cases, Tuesday's meetings will not take place. During the second year, Tuesdays meetings will occur once per month, for about 15min, and together with students from the topic group. Individual meetings will occur only in special cases.
+Otherwise specify, meetings take place in the supervisor's office or on Teams on **Tuesdays from 2PM to 4PM**. 
+However, during the first year, students will receive information about the TPM during the info session only, and they will receive feedbacks about their experimental question during the lab meeting in February (see below). Except in rare cases, there will not be additional meetings. 
+During the second year, Tuesday's meetings will occur once per month, for about 15min, and together with students from the topic group. Individual meetings will occur only in special cases.
 
 ## TPM: Step-by-step 
 
@@ -22,25 +25,25 @@ Write your story – before starting to work on your research project, you must 
 
 [Here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EYBHVK4jXRRDgV_kjq18fKcBuEdr44IweuwS9dMub3zVcg?e=MZ65qH), you can find more information on how to write your story
 
-Please use this format. The [StoryMasterProject.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/cQrEggsrbkLfRqGv3pD0JCJxEgUCMfTpVa_rZvfn2VM_E7p3jg) Make sure to download it first, fill it in and then add the final version of the literature review to OneDrive in the "The Story" folder and name it as YYMMDD_The Story_ProjectName_YourName*.
+Please use this format:[StoryMasterProject.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/cQrEggsrbkLfRqGv3pD0JCJxEgUCMfTpVa_rZvfn2VM_E7p3jg) **Make sure to download it first, fill it in and then add the final version of the literature review to OneDrive in the "The Story" folder and name it as YYMMDD_The Story_ProjectName_YourName**.
 
 Literature review – this is a key step in your research journey as you have to be sure that your research question is novel and what it is already known in the literature cannot already answer your research question. As soon as you have your problem, its importance and your research question, you can start the literature review.
 
-You can find [here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EUoe5X429chJpBdB49MvGQsBbc34B_GmaupfFieinipeBA?e=sAh7wh) information on how to do a literature review (towards the end of the presentation) You can use the webpages below to widen the spectrum of published manuscripts studying your topic of interest
+You can find [here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EUoe5X429chJpBdB49MvGQsBbc34B_GmaupfFieinipeBA?e=sAh7wh) information on how to do a literature review (towards the end of the presentation). You can use the webpages below to widen the spectrum of published manuscripts studying your topic of interest
 
 <https://www.connectedpapers.com/>
 
 <https://researchrabbitapp.com/>
 
-Please use this format [LitteratureReview.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/EYVzufrJivdCnCNIDscb3ZAB00cGdpnAh44Vz2H4zA4HTg?e=F1bCqO) *Make sure to download it first, fill it in and then add the final version of the literature review to OneDrive in the "Literature Review" folder and name it as YYMMDD_LR_ProjectName_YourName*.
+Please use this format: [LitteratureReview.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/EYVzufrJivdCnCNIDscb3ZAB00cGdpnAh44Vz2H4zA4HTg?e=F1bCqO) **Make sure to download it first, fill it in and then add the final version of the literature review to OneDrive in the "Literature Review" folder and name it as YYMMDD_LR_ProjectName_YourName**.
 
 ### Presentation to the lab
 
-You will be asked to make a presentation of your story to one of our lab meetings. This year presentation will be on the *10th of February at 1 PM (Salle Questienne)*.
+You will be asked to make a presentation of your story to one of our lab meetings. This year presentation will be on the **10th of February at 1 PM (Salle Questienne)**.
 
-For the presentation, please prepare a PowerPoint where, on each slide, you discuss one question of the story file (e.g., one slide for what the problem is, one for why it is important etc). You will just need to address the first question up to the "Why should we care about the research question". Each of you will have more or less 5 minutes (pairs will present together).
+For the presentation, please prepare a PowerPoint where, on each slide, you discuss one question of the story file (e.g., one slide for what the problem is, one for why it is important etc). You will just need to address the first questions up to (and including) the "Why should we care about the research question?". Each of you will have more or less 5 minutes (pairs will present together).
 
-Make sure to have a presentation that doesn't exceed 3 minutes to leave enough time for questions and comments.
+Make sure to have a presentation that **doesn't exceed 3 minutes** to leave enough time for questions and comments.
 
 ### Writing TPM
 
@@ -49,11 +52,11 @@ Make sure to have a presentation that doesn't exceed 3 minutes to leave enough t
 #### Guidelines
 
 - Create a file containing the final version of both the story file and the literature review file.
-- *For the TPM, the methodology section in the story file should be described in sufficient details, as in a journal article, and should however not exceed one page. You may add one figure if needed (which doesn't count in the page limit)!*
+- In the story file we usually present a small summary of the methods. For the TPM, however, **The methodology section should be described in sufficient details, as in a journal article, and should not exceed one page. You may add one figure if needed (which doesn't count in the page limit)!**
 - Compliance with the guidelines provided for both the story file and the literature review file will be taken into account in the evaluation.
 - Add the final version of your TPM to OneDrive in the "Collaborators" folder under your name.
 
-After writing the TPM you will continue working on the research project by collecting data, analyzing data etc.. This stage will vary depending on each project.
+After writing the TPM, you will continue working on the research project by collecting data, analyzing data etc.. This stage will vary depending on each project.
 
 ## Learn how the lab works
 
@@ -67,7 +70,7 @@ More information will be given during the project’s meetings.
 
 ### Results
 
-- Create a ppt with all the results of your research and add it to the shared folder.
+- Create a ppt with all the results of your research and **add it to the shared folder with your name printed on it**. During the meetings with the supervisor, you will show the research progress using the ppt.
 - Make sure to explain how you computed each variable.
 - If figures are needed, explain what the X axis and Y axis are.
 
