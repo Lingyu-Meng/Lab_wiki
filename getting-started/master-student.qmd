@@ -104,7 +104,7 @@ You can see these master's theses to get some idea [HÖLSCHER_Inès_000606384_
 - Add your analysis codes as an annex and both codes (in "Data Analysis") and data (in "Data") to the shared folder. Make sure that each file has your name and the date you upload the files 
 - Add the master's dissertation to the shared folder with your name and any ppt or materials you haven't shared yet.
 
-#### Writing with a buddy
+### Writing with a buddy
 
 If you are working in pair, the two students will contribute equally to the master dissertation. In other words, the submitted document should be the same.
 
