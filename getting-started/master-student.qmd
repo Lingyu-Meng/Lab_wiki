@@ -25,7 +25,7 @@ Write your story – before starting to work on your research project, you must 
 
 [Here](https://universitelibrebruxelles-my.sharepoint.com/:b:/g/personal/irene_cogliati_dezza_ulb_be/EYBHVK4jXRRDgV_kjq18fKcBuEdr44IweuwS9dMub3zVcg?e=MZ65qH), you can find more information on how to write your story
 
-Please use this format:[StoryMasterProject.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/cQrEggsrbkLfRqGv3pD0JCJxEgUCMfTpVa_rZvfn2VM_E7p3jg) **Make sure to download it first, fill it in and then add the final version of the literature review to OneDrive in the "The Story" folder and name it as YYMMDD_The Story_ProjectName_YourName**.
+Please use this format: [StoryMasterProject.docx](https://universitelibrebruxelles-my.sharepoint.com/:w:/g/personal/irene_cogliati_dezza_ulb_be/cQrEggsrbkLfRqGv3pD0JCJxEgUCMfTpVa_rZvfn2VM_E7p3jg) **Make sure to download it first, fill it in and then add the final version of the literature review to OneDrive in the "The Story" folder and name it as YYMMDD_The Story_ProjectName_YourName**.
 
 Literature review – this is a key step in your research journey as you have to be sure that your research question is novel and what it is already known in the literature cannot already answer your research question. As soon as you have your problem, its importance and your research question, you can start the literature review.
 
@@ -60,7 +60,7 @@ After writing the TPM, you will continue working on the research project by coll
 
 ## Learn how the lab works
 
-Read [before data collection](../methods/before-data-collection.qmd), read [online experiments](../methods/online-experiments.qmd) or [in-lab experiments](../methods/in-lab-experiments.qmd), and read how materials and scripts should be organized in the shared folder [data flow](../methods/data-flow.qmd).
+Read [before data collection](../methods/before-data-collection.qmd), read [online experiments](../methods/online-experiments.qmd) or [in-lab experiments](../methods/in-lab-experiments.qmd), and read how materials and scripts should be organized in the shared folder [data-flow](../methods/data-flow.qmd).
 
 ### Data Analysis
 
