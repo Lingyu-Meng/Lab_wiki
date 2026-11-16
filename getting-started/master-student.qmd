@@ -66,7 +66,7 @@ Read [before data collection](../methods/before-data-collection.qmd), read [onli
 
 You can find here some info on how to run statistical analysis here [Analyze_Data.pptx](https://universitelibrebruxelles-my.sharepoint.com/:p:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Analyze_Data.pptx?d=wfd3e8a8844984ab1ade92b96c13bf2e7&csf=1&web=1&e=vwTe7i)
 
-More information will be given during the project’s meetings.
+More information will be given during the project’s meetings. Make sure to add raw data, preprocessed data and analysis code to the shared folder under "Data" and "Data Analysis" folders 
 
 ### Results
 
