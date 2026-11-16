@@ -66,13 +66,14 @@ Read [before data collection](../methods/before-data-collection.qmd), read [onli
 
 You can find here some info on how to run statistical analysis here [Analyze_Data.pptx](https://universitelibrebruxelles-my.sharepoint.com/:p:/r/personal/irene_cogliati_dezza_ulb_be/Documents/Material%20for%20students/Analyze_Data.pptx?d=wfd3e8a8844984ab1ade92b96c13bf2e7&csf=1&web=1&e=vwTe7i)
 
-More information will be given during the project’s meetings. Make sure to add raw data, preprocessed data and analysis code to the shared folder under "Data" and "Data Analysis" folders 
+More information will be given during the project’s meetings. Make sure to add raw data, preprocessed data and analysis codes to the shared folder under "Data/raw_data" (or "Data/preprocessed_data") and "Data Analysis/" folders. Please add your name and the date to each file you add to these folders.
 
 ### Results
 
 - Create a ppt with all the results of your research and **add it to the shared folder with your name printed on it**. During the meetings with the supervisor, you will show the research progress using the ppt.
 - Make sure to explain how you computed each variable.
 - If figures are needed, explain what the X axis and Y axis are.
+- Remember that the results should be self-explanatory so make sure to give all necessary information to allow the supervisor to understand your analysis and your results
 
 ## Writing the master’s dissertation
 
@@ -98,9 +99,18 @@ You can see these master's theses to get some idea [HÖLSCHER_Inès_000606384_
 
 **Do not use AI (unless is for checking spelling or grammar mistakes). You will risk that you will not make it to the oral part of the evaluation. Last year, we did not accept a lot master's dissertation because of this.**
 
+### Before submission
+
+- Add your analysis codes as an annex and both codes (in "Data Analysis") and data (in "Data") to the shared folder. Make sure that each file has your name and the date you upload the files 
+- Add the master's dissertation to the shared folder with your name and any ppt or materials you haven't shared yet.
+
+#### Writing with a buddy
+
+If you are working in pair, the two students will contribute equally to the master dissertation. In other words, the submitted document should be the same.
+
 ### Language
 
-You can write in the language of your choice (either French or English)
+You can write in the language of your choice (either French or English). 
 
 ### Oral presentation for master's dissertation
 
