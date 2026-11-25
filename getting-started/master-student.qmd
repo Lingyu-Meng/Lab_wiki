@@ -13,11 +13,9 @@
 
 ### Supervision
 
-Otherwise specify, meetings take place in the supervisor's office or on Teams on **Tuesdays from 2PM to 4PM**. 
-However, during the first year, students will receive information about the TPM during the info session only, and they will receive feedbacks about their experimental question during the lab meeting in February (see below). Except in rare cases, there will not be additional meetings. 
-During the second year, Tuesday's meetings will occur once per month, for about 15min, and together with students from the topic group. Individual meetings will occur only in special cases.
+Otherwise specify, meetings take place in the supervisor's office or on Teams on **Tuesdays from 2PM to 4PM**. However, during the first year, students will receive information about the TPM during the info session only, and they will receive feedbacks about their experimental question during the lab meeting in February (see below). Except in rare cases, there will not be additional meetings. During the second year, Tuesday's meetings will occur once per month, for about 15min, and together with students from the topic group. Individual meetings will occur only in special cases.
 
-## TPM: Step-by-step 
+## TPM: Step-by-step
 
 ### First months of TPM
 
@@ -60,7 +58,7 @@ After writing the TPM, you will continue working on the research project by coll
 
 ## Learn how the lab works
 
-Read [before data collection](../methods/before-data-collection.qmd), read [online experiments](../methods/online-experiments.qmd) or [in-lab experiments](../methods/in-lab-experiments.qmd), and read how materials and scripts should be organized in the shared folder [Research Data and Project Organization](../methods/data-flow.qmd).
+Read [before data collection](../methods/before-data-collection.qmd), read [online experiments](../methods/online-experiments.qmd) or [in-lab experiments](../methods/in-lab-experiments.qmd), and read how materials and scripts should be organized in the shared folder [Research Data and Project Organization](../lab-basics/data-flow.qmd).
 
 ### Data Analysis
 
@@ -101,7 +99,7 @@ You can see these master's theses to get some idea [HÖLSCHER_Inès_000606384_
 
 ### Before submission
 
-- Add your analysis codes as an annex and both codes (in "Data Analysis") and data (in "Data") to the shared folder. Make sure that each file has your name and the date you upload the files 
+- Add your analysis codes as an annex and both codes (in "Data Analysis") and data (in "Data") to the shared folder. Make sure that each file has your name and the date you upload the files
 - Add the master's dissertation to the shared folder with your name and any ppt or materials you haven't shared yet.
 
 ### Writing with a buddy
@@ -110,7 +108,7 @@ If you are working in pair, the two students will contribute equally to the mast
 
 ### Language
 
-You can write in the language of your choice (either French or English). 
+You can write in the language of your choice (either French or English).
 
 ### Oral presentation for master's dissertation
 
