@@ -43,6 +43,6 @@ Read [before data collection](../methods/before-data-collection.qmd) and read [m
 
 ## Conferences
 
-Read [conferences](../lab-basics/conferences.qmd) for information on attending and presenting at conferences.
+Read [conferences](../lab-basics/conferences-and-journals.qmd) for information on attending and presenting at conferences.
 
 **Last checked:** \[2026-11-04\]
