@@ -72,12 +72,16 @@ The current lab guideline identifies [Zenodo](https://zenodo.org/) as a reposito
 
 Prepare a README and a data dictionary with each dataset. Include:
 
-- what the files contain and how the folders are organized;
-- the number of files, their naming scheme, and which version is the release version;
-- what each row and column represents, including variable codes and units;
-- how missing values are represented and how the data were selected, cleaned, or transformed;
-- which materials and scripts are needed to reproduce the published analyses;
-- where access is available, any conditions on reuse, and how to cite the dataset.
+- Who created the data
+- What the data file contains
+- When, where, why and how the data were generated
+- What the files contain and how the folders are organized;
+- The number of files, their naming scheme, and which version is the release version;
+- What each row and column represents, including variable codes and units;
+- How missing values are represented and how the data were selected, cleaned, or transformed;
+- Which materials and scripts are needed to reproduce the published analyses;
+- Where access is available, any conditions on reuse, and how to cite the dataset.
+- Keywords
 
 The paper’s **master file** should list the variables discussed in the paper. A data dictionary or codebook can serve this purpose. Keep a copy of the final deposited dataset and its DOI with the project records.
 
